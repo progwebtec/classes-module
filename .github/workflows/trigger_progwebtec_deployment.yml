@@ -1,4 +1,4 @@
-name: Trigger bkleinen.github.io deployment
+name: Trigger progwebtec.github.io deployment
 
 on:
   push:
@@ -14,8 +14,8 @@ jobs:
       - name: Trigger Workflow in Another Repository
         run: |
           # Set the required variables
-          repo_owner="bkleinen" 
-          repo_name="bkleinen.github.io"  
+          repo_owner="progwebtec" 
+          repo_name="progwebtec.github.io"  
           event_type="trigger-deploy" 
   
           curl -L \
