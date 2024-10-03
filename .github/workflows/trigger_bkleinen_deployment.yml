@@ -23,7 +23,7 @@ jobs:
           repo_owner="bkleinen" 
           repo_name="bkleinen.github.io"  
           event_type="trigger-deploy" 
-          service=${{ github.event.inputs.target_service }}"
+          service="${{ github.event.inputs.target_service }}"
           version="${{ github.event.inputs.target_version }}"
   
           curl -L \
