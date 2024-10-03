@@ -2,7 +2,7 @@ name: Trigger progwebtec.github.io deployment
 
 on:
   push:
-    branches: ['main', 'trigger_builds']
+    branches: ['main']
   workflow_dispatch:
    
 

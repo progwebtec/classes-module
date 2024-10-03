@@ -1,3 +1,3 @@
-module github.com/progwebtec/courses-module
+module github.com/progwebtec/classes-module
 
 go 1.23.2
