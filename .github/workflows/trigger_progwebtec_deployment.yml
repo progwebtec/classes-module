@@ -16,7 +16,7 @@ jobs:
           # Set the required variables
           repo_owner="progwebtec" 
           repo_name="progwebtec.github.io"  
-          event_type="trigger-deploy" 
+          event_type="classes-module-changed" 
   
           curl -L \
             -X POST \

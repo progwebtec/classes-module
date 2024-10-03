@@ -2,9 +2,8 @@ name: Trigger bkleinen.github.io deployment
 
 on:
   push:
-    tags:
-      - 'v*'
-  #workflow_dispatch:
+    branches: ['main']
+  workflow_dispatch:
    
 
 jobs:
@@ -17,7 +16,7 @@ jobs:
           # Set the required variables
           repo_owner="bkleinen" 
           repo_name="bkleinen.github.io"  
-          event_type="classes-module-tagged" 
+          event_type="classes-module-changed" 
   
           curl -L \
             -X POST \
