@@ -1,4 +1,4 @@
-name: Trigger Target Workflow
+name: Trigger bkleinen.github.io deployment
 
 on:
   push:

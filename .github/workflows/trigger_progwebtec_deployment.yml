@@ -1,4 +1,4 @@
-name: Trigger Target Workflow
+name: Trigger progwebtec.github.io deployment
 
 on:
   push:
