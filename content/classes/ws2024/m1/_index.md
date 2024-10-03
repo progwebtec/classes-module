@@ -11,7 +11,7 @@ aliases:
 draft: false
 courseNavExt:
 - title: Moodle
-  link: https://moodle.htw-berlin.de/course/view.php?id=49133
+  link: https://moodle.htw-berlin.de/course/view.php?id=50774
 - title: M1 in LSF
   link: https://lsf.htw-berlin.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=208241&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 - title: Term Schedule in LSF
