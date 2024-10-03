@@ -3,11 +3,10 @@ title: M1 Media Programming
 author: kleinen
 date: 2024-06-09
 weight: 3
-CourseNav: M1 Lab
+CourseNav: M1
 aliases: 
 - /m1
-- /m1-web
-- /ws2024/m1-web
+- /classes/ws2024/m1-web
 draft: false
 courseNavExt:
 - title: Moodle
@@ -22,7 +21,7 @@ params:
   author: 'Barne Kleinen'
   lecturer: 'Prof. Kleinen e.a.'
 ---
-
+asdfasfd
 ## Welcome!
 
 This pages introduce you to the "Epochenunterricht" in M1 Mediaprogramming.
@@ -32,5 +31,4 @@ focuses in International Media and Computing: Web Technology,
 Visual Computing and Game Technology.
 Have a look at the [tentative schedule](schedule) to
 see how this breaks down.
-
 

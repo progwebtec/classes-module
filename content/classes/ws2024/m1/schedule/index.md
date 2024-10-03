@@ -1,7 +1,7 @@
 ---
 title: M1 WS 2024/2025 Labs Schedule
 author: kleinen
-CourseNav: Schedule
+CourseNav: Lab Schedule
 weight: 20242
 ---
  
@@ -27,10 +27,10 @@ Time and Room: See [LSF](#tbd)
 | 10   | 49 | Wed 04/12/2024        | Web Technology                          | Gefei Zhang     |
 | 11   | 50 | Wed 11/12/2024        | Web Technology                          | Gefei Zhang     |
 | 12   | 51 | Wed 18/12/2024        | Game Technology and Interactive Systems | David Strippgen   |
-|      | 52 | Wed 25/12/2024        | ---                                     | ---               |
-|      | 1  | Wed 01/01/2025        | ---                                     | ---               |
-| 13   | 2  | Wed 08/01/2025        | Game Technology and Interactive Systems | David Strippgen   |
-| 14   | 3  | Wed 15/01/2025        | Game Technology and Interactive Systems | David Strippgen   |
-| 15   | 4  | Wed 22/01/2025 (1.PZ) | Game Technology and Interactive Systems | David Strippgen   |
-| 16   | 5  | Wed 29/01/2025 (1.PZ) | Game Technology and Interactive Systems | David Strippgen   |
+|      | 52 | Wed 25/12/2024        | ---                             | ---                  |
+|      | 1  | Wed 01/01/2025        | ---                             | ---                  |
+| 13   | 2  | Wed 08/01/2025        | Game Technology and Interactive Systems | Guido Pagliettini |
+| 14   | 3  | Wed 15/01/2025        | Game Technology and Interactive Systems | Guido Pagliettini |
+| 15   | 4  | Wed 22/01/2025 (1.PZ) | Game Technology and Interactive Systems | Guido Pagliettini |
+| 16   | 5  | Wed 29/01/2025 (1.PZ) | Game Technology and Interactive Systems | Guido Pagliettini |
 | 17   | 6  | Wed 05/02/2025 (1.PZ) |                                         |                   |
