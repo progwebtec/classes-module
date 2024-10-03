@@ -1,4 +1,4 @@
-name: Trigger bkleinen.github.io deployment
+name: Trigger bkleinen staging deployment
 
 on:
   push:
