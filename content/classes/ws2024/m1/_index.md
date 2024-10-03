@@ -4,7 +4,10 @@ author: kleinen
 date: 2024-06-09
 weight: 3
 CourseNav: M1 Lab
-aliases: /m1-web/
+aliases: 
+- /m1
+- /m1-web
+- /ws2024/m1-web
 draft: false
 courseNavExt:
 - title: Moodle

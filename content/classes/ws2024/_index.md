@@ -5,6 +5,4 @@ author: kleinen
 weight: 20242
 ---
 
-
-
 {{% lsf-links-semesterplaene %}}
