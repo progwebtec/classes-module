@@ -1,0 +1,8 @@
+public
+public-htw
+resources/_gen
+node_modules/
+.idea
+.hugo_build.lock
+temp/
+tmp/
