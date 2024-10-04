@@ -3,10 +3,12 @@ title: Info3 - Labs and Exercises
 author: kleinen
 weight: 30
 CourseNav: Labs
-draft: true
+draft: false
 params:
   lecturer: 'Linda Fernsel'
 ---
+
+Please find all information on the Labs on Moodle.
 
 {{< comment >}}
 ## Your time, your progress, your happyness, your responsibility
