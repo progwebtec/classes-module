@@ -21,11 +21,11 @@ Time and Room: See [LSF](#tbd)
 | 4    | 43 | Wed 23/10/2024        | Visual Computing                        | Kai Barthel       |
 | 5    | 44 | Wed 30/10/2024        | Visual Computing                        | Nico Hezel        |
 | 6    | 45 | Wed 06/11/2024        | Visual Computing                        | Nico Hezel        |
-| 7    | 46 | Wed 13/11/2024        | Web Technology                          | Barne Kleinen     |
-| 8    | 47 | Wed 20/11/2024        | Web Technology                          | Barne Kleinen     |
-| 9    | 48 | Wed 27/11/2024        | Web Technology                          | Barne Kleinen     |
-| 10   | 49 | Wed 04/12/2024        | Web Technology                          | Barne Kleinen     |
-| 11   | 50 | Wed 11/12/2024        | Web Technology                          | Barne Kleinen     |
+| 7    | 46 | Wed 13/11/2024        | Web Technology                          | Gefei Zhang     |
+| 8    | 47 | Wed 20/11/2024        | Web Technology                          | Gefei Zhang     |
+| 9    | 48 | Wed 27/11/2024        | Web Technology                          | Gefei Zhang     |
+| 10   | 49 | Wed 04/12/2024        | Web Technology                          | Gefei Zhang     |
+| 11   | 50 | Wed 11/12/2024        | Web Technology                          | Gefei Zhang     |
 | 12   | 51 | Wed 18/12/2024        | Game Technology and Interactive Systems | David Strippgen   |
 |      | 52 | Wed 25/12/2024        | ---                                     | ---               |
 |      | 1  | Wed 01/01/2025        | ---                                     | ---               |
