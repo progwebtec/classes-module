@@ -1,16 +1,16 @@
 ---
-title: M1 WS 2024/2025 Labs Schedule
+title: M1 WS 2024/2025 Wednesday Schedule
 author: kleinen
-CourseNav: Lab Schedule
+CourseNav: Wednesday Lab Schedule
 weight: 20242
 ---
  
-Stand: 09.06.2024 - first draft!!
+Stand: 10.10.2024 - 
 [M1 Schedule Overview](/classes/m1)
 /
-[Edit this page via github](https://github.com/progwebtec/progwebtec.github.io/blob/main/content/classes/ws2024/m1-web/schedule/index.md) (ask BK for repo permissions first)
+[Edit this page via github](https://github.com/progwebtec/classes-module/blob/main/content/classes/ws2024/m1/schedule/index.md) (ask BK for rsepo permissions first)
 
-Time and Room: See [LSF](#tbd)
+Time and Room: See LSF (link in external links above)
 
 
 | Week | KW | Date                  | Topic Area                              | Lecturer          |
@@ -29,8 +29,8 @@ Time and Room: See [LSF](#tbd)
 | 12   | 51 | Wed 18/12/2024        | Game Technology and Interactive Systems | David Strippgen   |
 |      | 52 | Wed 25/12/2024        | ---                             | ---                  |
 |      | 1  | Wed 01/01/2025        | ---                             | ---                  |
-| 13   | 2  | Wed 08/01/2025        | Game Technology and Interactive Systems | Guido Pagliettini |
-| 14   | 3  | Wed 15/01/2025        | Game Technology and Interactive Systems | Guido Pagliettini |
-| 15   | 4  | Wed 22/01/2025 (1.PZ) | Game Technology and Interactive Systems | Guido Pagliettini |
-| 16   | 5  | Wed 29/01/2025 (1.PZ) | Game Technology and Interactive Systems | Guido Pagliettini |
+| 13   | 2  | Wed 08/01/2025        | Game Technology and Interactive Systems | David Strippgen |
+| 14   | 3  | Wed 15/01/2025        | Game Technology and Interactive Systems | David Strippgen |
+| 15   | 4  | Wed 22/01/2025 (1.PZ) | Game Technology and Interactive Systems | David Strippgen |
+| 16   | 5  | Wed 29/01/2025 (1.PZ) | Game Technology and Interactive Systems | David Strippgen |
 | 17   | 6  | Wed 05/02/2025 (1.PZ) |                                         |                   |
