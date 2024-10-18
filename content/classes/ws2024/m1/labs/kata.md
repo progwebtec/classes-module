@@ -35,14 +35,21 @@ Work Test Driven: Write a failing test, implement it in the most simple way, the
 
 ### Add Stage 2 Functionality: 
 
-- A number is fizz if it is divisible by 3 or if it has a 3 in it
-- A number is buzz if it is divisible by 5 or if it has a 5 in it
+* A number is fizz if it is divisible by 3 or if it has a 3 in it
+* A number is buzz if it is divisible by 5 or if it has a 5 in it
 
-Refactor.
+For example : 
+
+* `53` should return `FizzBuzz` (1 Fizz: 3 is contained, 1 Buzz: 5 is contained)
+* `35` should return `FizzBuzzBuzz` (1 Fizz: 3 contained, 2 Buzz: 5 divides and is contained)
+* `51` should return `FizzBuzz` (1 Fizz: 3 divides, 1 Buzz: 5 is contained)
+* `33` should return `FizzFizz` (2 Fizz: 3 divides and is contained)
+
+Refactor as needed.
 
 ### Add new Requirements
 
-We will define a new Requirement in Class. Write a Test. Implement it. Refactor.
+We will define a new Requirement in Class (or, define one yourself). Write a Test. Implement it. Refactor.
 
 
 # Resources
@@ -54,5 +61,5 @@ here's a link to a page that plagiarizes his content (even without a single
 mention of the source!):
 Code Smells (no date). Available at: [https://refactoring.guru/refactoring/smells](https://refactoring.guru/refactoring/smells) (Accessed: 14 October 2024).
 
-RailsConf 2016 - Get a Whiff of This by Sandi Metz (no date). Available at: [https://www.youtube.com/watch?v=PJjHfa5yxlU](https://www.youtube.com/watch?v=PJjHfa5yxlU).
+RailsConf 2016 - Get a Whiff of This by Sandi Metz (2016). Available at: [https://www.youtube.com/watch?v=PJjHfa5yxlU](https://www.youtube.com/watch?v=PJjHfa5yxlU).
 
