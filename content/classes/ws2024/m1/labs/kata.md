@@ -45,3 +45,14 @@ Refactor.
 We will define a new Requirement in Class. Write a Test. Implement it. Refactor.
 
 
+# Resources
+
+Fowler, M. (no date) Catalog of Refactorings. Available at: [https://refactoring.com/catalog/](https://refactoring.com/catalog/) (Accessed: 14 October 2024).
+
+As the list of code smells is no longer available on Martin Fowler's page, 
+here's a link to a page that plagiarizes his content (even without a single 
+mention of the source!):
+Code Smells (no date). Available at: [https://refactoring.guru/refactoring/smells](https://refactoring.guru/refactoring/smells) (Accessed: 14 October 2024).
+
+RailsConf 2016 - Get a Whiff of This by Sandi Metz (no date). Available at: [https://www.youtube.com/watch?v=PJjHfa5yxlU](https://www.youtube.com/watch?v=PJjHfa5yxlU).
+
