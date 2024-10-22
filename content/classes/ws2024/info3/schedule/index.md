@@ -26,9 +26,9 @@ draft: false
 |      |     | Thu 07/11/2024 |              | e-learning                                                              | Lab 3: Personas, Use Case Diagrams, Scenarios                                      |
 | 7    |  46 | Tue 12/11/2024 |              | e-learning                                                              |                                                                                    |
 |      |     | Thu 14/11/2024 |              | e-learning                                                              | Lab 3: Personas, Use Case Diagrams, Scenario                                       |
-| 8    |  47 | Tue 19/11/2024 |              | TBD                                                                     |                                                                                    |
-|      |     | Thu 21/11/2024 |              | e-learning reviews                                                      | Lab4: Class Diagrams, Sequence Diagrams                                            |
-| 9    |  48 | Tue 26/11/2024 |              | TBD                                                                     |                                                                                    |
+| 8    |  47 | Tue 19/11/2024 |              | verschoben auf Wed 23/10/2024    |                                                                                    |
+|      |     | Thu 21/11/2024 |              | verschoben auf  Tue 29/10/2024                                                  | Lab4: Class Diagrams, Sequence Diagrams                                            |
+| 9    |  48 | Tue 26/11/2024 |              |  e-learning reviews                                                                      |                                                                                    |
 |      |     | Thu 28/11/2024 |              | SOLID Principles                                                        | Lab4: Class Diagrams, Sequence Diagrams                                            |
 | 10   |  49 | Tue 03/12/2024 |              | OO In Depth: Composition and Inheritance, Dynamic Typing, Duck Typing   |                                                                                    |
 |      |     | Thu 05/12/2024 |              | More on Inheritance, Composition and Inheritance (Poodr Chapter 8)      | Lab5: User Stories, Project Set-Up, Implementation                                 |
