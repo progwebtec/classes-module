@@ -20,15 +20,15 @@ draft: false
 |      |     | Wed 23/10/2024 |              | Agile Development, Scrum                                                | {{< alert danger>}} Zusätzlicher Termin: Wed 23/10/2024, 12:15-13:45 {{</ alert>}} |
 |      |     | Thu 24/10/2024 |              | Requirements Engineering                                                | Lab 2: Django                                                                      |
 | 5    |  44 | Tue 29/10/2024 |              | Software Design Patterns (GOF)                                          | {{< alert danger>}} Zusätzlicher Termin:  Tue 29/10/2024, 14:00-15:30{{</ alert>}} |
-|      |     | Tue 29/10/2024 |              | Patterns of Enterprise Application Architecture (POEAA)                 | Lab 2: Django                                                                      |
-|      |     | Thu 31/10/2024 |              | Agile Testing Practices, Code Quality                                   |                                                                                    |
+|      |     | Tue 29/10/2024 |              | Patterns of Enterprise Application Architecture (POEAA)                 |                                                                       |
+|      |     | Thu 31/10/2024 |              | Agile Testing Practices, Code Quality                                   |  Lab 2: Django                                                                                  |
 | 6    |  45 | Tue 05/11/2024 |              | e-learning                                                              |                                                                                    |
 |      |     | Thu 07/11/2024 |              | e-learning                                                              | Lab 3: Personas, Use Case Diagrams, Scenarios                                      |
 | 7    |  46 | Tue 12/11/2024 |              | e-learning                                                              |                                                                                    |
 |      |     | Thu 14/11/2024 |              | e-learning                                                              | Lab 3: Personas, Use Case Diagrams, Scenario                                       |
-| 8    |  47 | Tue 19/11/2024 |              | verschoben auf Wed 23/10/2024    |                                                                                    |
-|      |     | Thu 21/11/2024 |              | verschoben auf  Tue 29/10/2024                                                  | Lab4: Class Diagrams, Sequence Diagrams                                            |
-| 9    |  48 | Tue 26/11/2024 |              |  e-learning reviews                                                                      |                                                                                    |
+| 8    |  47 | Tue 19/11/2024 |              | vorverlegt auf Wed 23/10/2024                                           |                                                                                    |
+|      |     | Thu 21/11/2024 |              | vorverlegt auf Tue 29/10/2024                                           | Lab4: Class Diagrams, Sequence Diagrams                                            |
+| 9    |  48 | Tue 26/11/2024 |              | e-learning reviews                                                      |                                                                                    |
 |      |     | Thu 28/11/2024 |              | SOLID Principles                                                        | Lab4: Class Diagrams, Sequence Diagrams                                            |
 | 10   |  49 | Tue 03/12/2024 |              | OO In Depth: Composition and Inheritance, Dynamic Typing, Duck Typing   |                                                                                    |
 |      |     | Thu 05/12/2024 |              | More on Inheritance, Composition and Inheritance (Poodr Chapter 8)      | Lab5: User Stories, Project Set-Up, Implementation                                 |
