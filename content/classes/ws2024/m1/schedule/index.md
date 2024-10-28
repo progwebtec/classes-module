@@ -21,11 +21,11 @@ Time and Room: See LSF (link in external links above)
 | 4    | 43 | Wed 23/10/2024        | Visual Computing                        | Kai Barthel       |
 | 5    | 44 | Wed 30/10/2024        | Visual Computing                        | Nico Hezel        |
 | 6    | 45 | Wed 06/11/2024        | Visual Computing                        | Nico Hezel        |
-| 7    | 46 | Wed 13/11/2024        | Web Technology                          | Gefei Zhang     |
-| 8    | 47 | Wed 20/11/2024        | Web Technology                          | Gefei Zhang     |
-| 9    | 48 | Wed 27/11/2024        | Web Technology                          | Gefei Zhang     |
-| 10   | 49 | Wed 04/12/2024        | Web Technology                          | Gefei Zhang     |
-| 11   | 50 | Wed 11/12/2024        | Web Technology                          | Gefei Zhang     |
+| 7    | 46 | ~~Wed 13/11/2024~~ Fri 15/11/2024  9:45 bis 11:15 Zoom      | Web Technology                          | Gefei Zhang     |
+| 8    | 47 | ~~Wed 20/11/2024~~ Fri 22/11/2024  9:45 bis 11:15 Zoom      | Web Technology                          | Gefei Zhang     |
+| 9    | 48 | ~~Wed 27/11/2024~~ Fri 29/11/2024  9:45 bis 11:15 Zoom      | Web Technology                          | Gefei Zhang     |
+| 10   | 49 | ~~Wed 04/12/2024~~ Fri 06/12/2024  9:45 bis 11:15 Zoom      | Web Technology                          | Gefei Zhang     |
+| 11   | 50 | ~~Wed 11/12/2024~~ Fri 13/12/2024  9:45 bis 11:15 Zoom      | Web Technology                          | Gefei Zhang     |
 | 12   | 51 | Wed 18/12/2024        | Game Technology and Interactive Systems | David Strippgen   |
 |      | 52 | Wed 25/12/2024        | ---                             | ---                  |
 |      | 1  | Wed 01/01/2025        | ---                             | ---                  |
