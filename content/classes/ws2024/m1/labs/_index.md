@@ -1,10 +1,11 @@
 ---
 title: M1 Media Programming - Lab Assignments
 author: kleinen
-weight: 30
-CourseNav: Labs
+CourseNav: Assignments
 draft: false
+weight: 20246
 ---
 
-## All Labs:
+These are the Assignments for the practical exercises for the M1 main part on Friday.
+## All Assignments:
 {{< subpages  >}}

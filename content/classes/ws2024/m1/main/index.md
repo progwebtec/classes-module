@@ -2,7 +2,7 @@
 title: M1 WS 2024/2025 Labs Schedule
 author: kleinen
 CourseNav: Main Schedule
-weight: 3
+weight: 20244
 ---
 | Week | KW  | Date           | Topic Area                                                                                         | Lab |
 | :--- | :-- | :------------- | :------------------------------------------------------------------------------------------------- | :-- |
