@@ -3,6 +3,7 @@ title: M1 WS 2024/2025 Labs Schedule
 author: kleinen
 CourseNav: Main Schedule
 weight: 20244
+draft: true
 ---
 | Week | KW  | Tentative Due Dates (will be fixed in class 1.11.)           | Date           | Topic Area                                                                                         | Lab  |
 | :--- | :-- | :------------------- | :------------- | :------------------------------------------------------------------------------------------------- | :--- |
@@ -25,4 +26,3 @@ weight: 20244
 | 15   | 5   |                      | Fri 31/01/2025 | Exam                                                                                               |      |
 | 16   | 6   |                      | Fri 07/02/2025 | Showtime                                                                                           |      |
 
-Aktuelle Infos zu den Prüfungsterminen im LSF.
