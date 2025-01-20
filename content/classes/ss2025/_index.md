@@ -1,8 +1,8 @@
 ---
-title: Winter Term 2024/25
+title: Summer Term 2025
 draft: false
 author: kleinen
-weight: 20242
+weight: 20251
 ---
 
 {{% lsf-links-semesterplaene %}}
