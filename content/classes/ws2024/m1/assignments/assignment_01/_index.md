@@ -3,6 +3,7 @@ title: Assignment 01 - Software Crafting
 author: kleinen
 weight: 30
 draft: false
+points: 10
 ---
 ### Assignment 01 - Software Crafting
 

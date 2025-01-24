@@ -3,6 +3,7 @@ title: Assignment 03 - Contribution to an Open Source Project
 author: kleinen
 weight: 40
 draft: false
+points: 15
 ---
 
 ## Assignment 03 - Contribution to an Open Source Project

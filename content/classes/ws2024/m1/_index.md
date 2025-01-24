@@ -46,19 +46,15 @@ The Module Description:
 The M1 grade will be determined as following:
 
 1. You have to pass each of the three lab parts of the Wednesday Labs (unbewertet, Prüfungsvoraussetzung)
-2. There will be an Exam (Probably Moodle-Exam) at the end of term: 50% (bewertete Teilmodulprüfung) 
-    This exam will be mainly on the main part (70%) and partly on the three specialization areas (3*10%)
+2. There will be an Exam (Moodle-Exam) at the end of term: 50% (bewertete Teilmodulprüfung). 
+    
+    This exam will be mostly on the main part (70%) and partly on the three specialization areas (3*10%)
 3. Graded Lab Part for Main Part: 50%
 
-### Main Labs
-You will need to hand in 6-7 Lab reports for the main part:
+### Graded Lab Part for Main Part
+You will need to hand in the following reports for the main part:
 
-  1. Personal Summary on OO & Software Crafting part, Report on Exercises
-  2. Proposal for Open Source Project
-  3. Brief Report on Refactoring Exercise, including source code
-  4. Report on Open Source Project, including source code
-  5. TBD
-  6. TBD
-  7. TBD
+  {{< subpages page="assignments" depth="2" site_parameter="points">}}
+
 
 This planning is also tentative, It will be adjusted according to our overall planning, and the reports will be weighted accordingly.

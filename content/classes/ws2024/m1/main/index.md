@@ -25,4 +25,5 @@ weight: 20244
 | 15   | 5   |                      | Fri 31/01/2025 | Exam                                                                                               |      |
 | 16   | 6   |                      | Fri 07/02/2025 | Showtime                                                                                           |      |
 
+Prüfung 2. PZ geplant für den  31.03.2025.
 Aktuelle Infos zu den Prüfungsterminen im LSF.
