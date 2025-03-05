@@ -1,5 +1,5 @@
 ---
-title: B7 Informatik 2 Summer 2024 - Labs and Exercises
+title: B7 Informatik 2 Summer 2025 - Labs and Exercises
 author: kleinen
 layout: page
 courseNav: Labs

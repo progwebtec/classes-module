@@ -1,5 +1,5 @@
 ---
-title: B7 Informatik 2 Summer 2024 - Schedule
+title: B7 Informatik 2 Summer 2025 - Schedule
 author: kleinen
 courseNav: Schedule
 weight: 1000
@@ -8,51 +8,100 @@ weight: 1000
 This schedule is, as always, tentative.
 
 
+
+
+
+
+
+
+
+
 | Week | KW | Lecture        |             |                                                                                                                      | Lab                                                                                |
 |:-----|:---|:---------------|:------------|:---------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
-| 1    | 14 | Tue 02/04/2024 |             | No Class: Erstsemesterwoche and Exams                                                                                |                                                                                    |
-|      |    | Thu 04/04/2024 |             |                                                                                                                      |                                                                                    |
-| 2    | 15 | Tue 09/04/2024 |             | Introduction to the course.                                                                                          | {{% link title ="Designing an Application, CRC Cards " link = "../labs/lab-01" %}} |
-|      |    | Thu 11/04/2024 |             | Review: Java Program, Interfaces, Parameters, Data Types and Control Structures, Classes, Arrays, Collections        |                                                                                    |
-| 3    | 16 | Tue 16/04/2024 |             | Intro to the shell(bash), git, github                                                                                | {{% link title ="Getting back to programming, Tools" link = "../labs/lab-02" %}}   |
-|      |    | Thu 18/04/2024 |             | Designing Applications                                                                                               |                                                                                    |
-| 4    | 17 | Tue 23/04/2024 |             | Designing Applications                                                                                               | {{% link title ="Implementing CRC cards " link = "../labs/lab-03" %}}              |
-|      |    | Thu 25/04/2024 |             | File-based IO, Exceptions (Prep. Lab 04, Histogram)                                                                  |                                                                                    |
-| 5    | 18 | Tue 30/04/2024 |             | Concurrency, Networking in Java (Prep. Lab 05, Chatterbox)                                                           | {{% link title ="Histogram" link = "../labs/lab-04" %}}                            |
-|      |    | Thu 02/05/2024 |             | Properties of Algorithms, Execution Times                                                                            |                                                                                    |
-| 6    | 19 | Tue 07/05/2024 |             | Data Types:Lists /  Data Types: Sets, Bags, Maps                                                                     | {{% link title ="Chatterbox" link = "../labs/lab-05" %}}                           |
-|      |    | Thu 09/05/2024 | Himmelfahrt | *No Class*                                                                                                           |                                                                                    |
-| 7    | 20 | Tue 14/05/2024 |             | Data Types: Stacks                                                                                                   | {{% link title ="Execution Times" link = "../labs/lab-06" %}}                      |
-|      |    | Thu 16/05/2024 |             | --                                                                                                                   |                                                                                    |
-| 8    | 21 | Tue 21/05/2024 |             | Recursion                                                                                                            | {{% link title ="Reverse Polish Notation" link = "../labs/lab-07" %}}              |
-|      |    | Thu 23/05/2024 |             | Graphs & Graph Algorithms Part I                                                                                     |                                                                                    |
-| 9    | 22 | Tue 28/05/2024 |             | Sorting [see Chapter in Algorithms Book: Sorting](https://algs4.cs.princeton.edu/20sorting/)                         | {{% link title ="Recursive Triangles" link = "../labs/lab-08" %}}                  |
-|      |    | Thu 30/05/2024 |             | --                                                                                                                   |                                                                                    |
-| 10   | 23 | Tue 04/06/2024 |             | --                                                                                                                   |                                                                                    |
-|      |    | Thu 06/06/2024 |             | --                                                                                                                   |                                                                                    |
-| 11   | 24 | Tue 11/06/2024 |             | Recursion Part II: Permutations (Permutations.java), Backtracking (TicTacToe.java), Sorting Part II: Heapsort        | {{% link title ="Eight Queens" link = "../labs/lab-09" %}}                         |
-|      |    | Thu 13/06/2024 |             |   e-learning Assignment: Trees, Queues, Priority Queues: Implement a Priority Queue with a Heap! see for instance [2.4 Priority Queues](https://algs4.cs.princeton.edu/24pq/) in Sedgewick: Algorithms                 |
-| 12   | 25 | Tue 18/06/2024 |             | Finite State Automata                                                                                                                     |  {{% link title ="Finite State Automata and Sorting" link = "../labs/lab-10" %}}                                                                                   |
-|      |    | Thu 20/06/2024 |             |    Graphs & Graph Algorithms Part II (Dijkstra)  - [S./W.: Algorithms Ch. 4](https://algs4.cs.princeton.edu/40graphs/)       |
-| 13   | 26 | Tue 25/06/2024 |             |  Sort Summary, esp. Heapsort, Hashing, see also [Hash Tables](https://algs4.cs.princeton.edu/34hash/)                                                                                         | {{% link title ="Getting from A to B" link = "../labs/lab-11" %}}                  |
-|      |    | Thu 27/06/2024 |  **9:45!!**           |   Searching  + String Searching                                                                                  |                                                                                    |
-| 14   | 27 | Tue 02/07/2024 |             |   Data Structures: Trees                                                                                                  | {{% link title ="Scrabble Cheater" link = "../labs/lab-13" %}}                                                                                           |
-|      |    | Thu 04/07/2024 |             |  Python Intro                                                                                                         |                                                                                                                                                          |
-| 15   | 28 | Tue 09/07/2024 |             | AVL-Trees, Graphs & Trees II, Sorting Algorithms Roundup                                                                                             | {{% link title ="Scrabble Cheater Deluxe" link = "../labs/lab-14" %}}              |
-|      |    | Thu 11/07/2024 |             | Bits. Or: What every programmer must know about [Floating-Point Arithmetic](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) and [Character Encodings/Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) |              |
-| 16   | 29 | Tue 16/07/2024 |             | Exam Info & Preparation                                                                                              | Trial Exams             |
-|      |    | Thu 18/07/2024 |             | TBD                                                                                                                     |                                                                                    |
-| 17   | 30 | Tue 23/07/2024 |             | Exam PZ 1                                                                                                           |                                                                                    |
-|      |    | Thu 25/07/2024 |             | No lecture                                                                                                                    |                                                                                    |
-| 18   | 31 | Tue 30/07/2024 |             | Klausureinsicht?                                                                                                     |                                                                                    |
-|      |    | Thu 01/08/2024 |             | No lecture                                                                                                                     |                                                                                    |
-|      |    | Fri 02/08/2024 |             | Showtime                                                                                                             |                                                                                    |
-|      |    |                |             |                                                                                                                      |                                                                                    |
+ 1 | 14 | Tue 01/04/2025 |             | No Class: Erstsemesterwoche and Exams                                                                                |                                                                                    |
+    |    | Thu 03/04/2025|             |                                                                                                                      |                                                                                    |
+ 2 | 15 | Tue 08/04/2025 |             | Introduction to the course.                                                                                          | {{% link title ="Designing an Application, CRC Cards " link = "../labs/lab-01" %}} |
+    |    | Thu 10/04/2025|             | Review: Java Program, Interfaces, Parameters, Data Types and Control Structures, Classes, Arrays, Collections        |                                                                                    |
+ 3 | 16 | Tue 15/04/2025 |             | Intro to the shell(bash), git, github                                                                                | {{% link title ="Getting back to programming, Tools" link = "../labs/lab-02" %}}   |
+    |    | Thu 17/04/2025|             | Designing Applications                                                                                               |                                                                                    |
+ 4 | 17 | Tue 22/04/2025 |             | Designing Applications                                                                                               | {{% link title ="Implementing CRC cards " link = "../labs/lab-03" %}}              |
+    |    | Thu 24/04/2025|             | File-based IO, Exceptions (Prep. Lab 04, Histogram)                                                                  |                                                                                    |
+ 5 | 18 | Tue 29/04/2025 |             | Concurrency, Networking in Java (Prep. Lab 05, Chatterbox)                                                           | {{% link title ="Histogram" link = "../labs/lab-04" %}}                            |
+    |    | Thu 01/05/2025|             | Properties of Algorithms, Execution Times                                                                            |                                                                                    |
+ 6 | 19 | Tue 06/05/2025 |             | Data Types:Lists /  Data Types: Sets, Bags, Maps                                                                     | {{% link title ="Chatterbox" link = "../labs/lab-05" %}}                           |
+    |    | Thu 08/05/2025| Himmelfahrt | *No Class*                                                                                                           |                                                                                    |
+ 7 | 20 | Tue 13/05/2025 |             | Data Types: Stacks                                                                                                   | {{% link title ="Execution Times" link = "../labs/lab-06" %}}                      |
+    |    | Thu 15/05/2025|             | --                                                                                                                   |                                                                                    |
+ 8 | 21 | Tue 20/05/2025 |             | Recursion                                                                                                            | {{% link title ="Reverse Polish Notation" link = "../labs/lab-07" %}}              |
+    |    | Thu 22/05/2025|             | Graphs & Graph Algorithms Part I                                                                                     |                                                                                    |
+ 9 | 22 | Tue 27/05/2025 |             | Sorting [see Chapter in Algorithms Book: Sorting](https://algs4.cs.princeton.edu/20sorting/)                         | {{% link title ="Recursive Triangles" link = "../labs/lab-08" %}}                  |
+    |    | Thu 29/05/2025|             | --                                                                                                                   |                                                                                    |
+ 10 | 23 | Tue 03/06/2025|             | --                                                                                                                   |                                                                                    |
+    |    | Thu 05/06/2025|             | --                                                                                                                   |                                                                                    |
+ 11 | 24 | Tue 10/06/2025|             | Recursion Part II: Permutations (Permutations.java), Backtracking (TicTacToe.java), Sorting Part II: Heapsort        | {{% link title ="Eight Queens" link = "../labs/lab-09" %}}                         |
+    |    | Thu 12/06/2025|             |   e-learning Assignment: Trees, Queues, Priority Queues: Implement a Priority Queue with a Heap! see for instance [2.4 Priority Queues](https://algs4.cs.princeton.edu/24pq/) in Sedgewick: Algorithms                 |
+ 12 | 25 | Tue 17/06/2025|             | Finite State Automata                                                                                                                     |  {{% link title ="Finite State Automata and Sorting" link = "../labs/lab-10" %}}                                                                                   |
+    |    | Thu 19/06/2025|             |    Graphs & Graph Algorithms Part II (Dijkstra)  - [S./W.: Algorithms Ch. 4](https://algs4.cs.princeton.edu/40graphs/)       |
+ 13 | 26 | Tue 24/06/2025|             |  Sort Summary, esp. Heapsort, Hashing, see also [Hash Tables](https://algs4.cs.princeton.edu/34hash/)                                                                                         | {{% link title ="Getting from A to B" link = "../labs/lab-11" %}}                  |
+    |    | Thu 26/06/2025|  **9:45!!**           |   Searching  + String Searching                                                                                  |                                                                                    |
+ 14 | 27 | Tue 01/07/2025|             |   Data Structures: Trees                                                                                                  | {{% link title ="Scrabble Cheater" link = "../labs/lab-13" %}}                                                                                           |
+    |    | Thu 03/07/2025|             |  Python Intro                                                                                                         |                                                                                                                                                          |
+ 15 | 28 | Tue 08/07/2025|             | AVL-Trees, Graphs & Trees II, Sorting Algorithms Roundup                                                                                             | {{% link title ="Scrabble Cheater Deluxe" link = "../labs/lab-14" %}}              |
+    |    | Thu 10/07/2025|             | Bits. Or: What every programmer must know about [Floating-Point Arithmetic](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) and [Character Encodings/Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) |              |
+ 16 | 29 | Tue 15/07/2025|             | Exam Info & Preparation                                                                                              | Trial Exams             |
+    |    | Thu 17/07/2025|             | TBD                                                                                                                     |                                                                                    |
+ 17 | 30 | Tue 22/07/2025|             | Exam PZ 1                                                                                                           |                                                                                    |
+    |    | Thu 24/07/2025|             | No lecture                                                                                                                    |                                                                                    |
+ 18 | 31 | Tue 29/07/2025|             | Klausureinsicht?                                                                                                     |                                                                                    |
+    |    | Thu 31/07/2025|             | No lecture                                                                                                                     |                                                                                    |
+ 19 | 32 | Tue 05/08/2025|             | Showtime                                                                                                             |                                                                                    |
+    |    | Thu 07/08/2025|             |                                                                                                                      |                                                                                    |
+20 | 33 | Tue 12/08/2025
+   |    | Thu 14/08/2025
 
 
 
 
-
+||
+| |
+||
+| |
+||
+| |
+||
+| |
+||
+| |
+||
+| |
+||
+| |
+||
+| |
+||
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
 
 
 <!--

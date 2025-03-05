@@ -1,5 +1,5 @@
 ---
-title: B7 Informatik 2 Summer 2024 - Handouts
+title: B7 Informatik 2 Summer 2025 - Handouts
 author: kleinen
 layout: page
 draft: true

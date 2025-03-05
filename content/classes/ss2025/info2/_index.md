@@ -1,5 +1,5 @@
 ---
-title: B7 Informatik 2 Summer 2024
+title: B7 Informatik 2 Summer 2025
 author: kleinen
 weight: 1
 aliases: /info2/

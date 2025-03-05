@@ -1,5 +1,5 @@
 ---
-title: B7 Informatik 2 Summer 2024 - Material
+title: B7 Informatik 2 Summer 2025 - Material
 author: kleinen
 layout: page
 courseNav: Material
