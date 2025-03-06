@@ -5,15 +5,7 @@ courseNav: Schedule
 weight: 1000
 ---
 
-This schedule is, as always, tentative.
-
-
-
-
-
-
-
-
+Tentative Schedule (6.3.2025)
 
 
 | Week | KW  | Lecture        |                |                                                                                                                          | Lab                                                                                |     |
@@ -45,9 +37,9 @@ This schedule is, as always, tentative.
 | 13   | 26  | Tue 24/06/2025 |                | Data Structures: Trees                                                                                                   | {{% link title ="Getting from A to B" link = "../labs/lab-11" %}}                  |     |
 |      |     | Thu 26/06/2025 |                | Python Intro                                                                                                             |                                                                                    |     |
 | 14   | 27  | Tue 01/07/2025 |                | AVL-Trees, Graphs & Trees II, Sorting Algorithms Roundup                                                                 | {{% link title ="Scrabble Cheater" link = "../labs/lab-13" %}}                     |     |
-|      |     | Thu 03/07/2025 |                | NP-Complete Problems                                                                                                                          |                                                                                    |     |
-| 15   | 28  | Tue 08/07/2025 |                | Coding Algorithms                                                                                                                            | {{% link title ="Scrabble Cheater Deluxe" link = "../labs/lab-14" %}}              |     |
-|      |     | Thu 10/07/2025 |                |  Unicode (The Absolute Minimum Every Software Developer ... Must Know About Unicode ...), Cryptographic Algorithms                                                                                                                         |                                                                                    |     |
+|      |     | Thu 03/07/2025 |                | NP-Complete Problems                                                                                                     |                                                                                    |     |
+| 15   | 28  | Tue 08/07/2025 |                | Coding Algorithms                                                                                                        | {{% link title ="Scrabble Cheater Deluxe" link = "../labs/lab-14" %}}              |     |
+|      |     | Thu 10/07/2025 |                | Unicode (The Absolute Minimum Every Software Developer ... Must Know About Unicode ...), Cryptographic Algorithms        |                                                                                    |     |
 | 16   | 29  | Tue 15/07/2025 | PZ1 Anfang     | Exam Info & Preparation                                                                                                  | Trial Exams                                                                        |     |
 |      |     | Thu 17/07/2025 |                | Exam Info & Preparation                                                                                                  |                                                                                    |     |
 | 17   | 30  | Mon 21/07/2025 |                | Exam?                                                                                                                    |                                                                                    |     |

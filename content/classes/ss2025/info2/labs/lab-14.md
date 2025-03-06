@@ -2,7 +2,7 @@
 title: 'Lab 13: Scrabble Cheater - Deluxe'
 author: kleinen
 layout: lab
-draft: false
+draft: true
 ---
 
 ## Pre-Lab

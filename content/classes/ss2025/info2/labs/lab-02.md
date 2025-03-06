@@ -2,7 +2,7 @@
 title: 'Lab 02: Programming & Tools, Review of CRC Model'
 author: Linda Fernsel
 layout: lab
-draft: false
+draft: true
 weight: 020
 ---
 

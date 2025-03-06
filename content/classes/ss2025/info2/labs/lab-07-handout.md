@@ -2,7 +2,7 @@
 title: 'Lab 07 Handout: Infix/Prefix/Postfix'
 author: kleinen
 layout: lab
-draft: false
+draft: true
 weight: 71
 ---
 

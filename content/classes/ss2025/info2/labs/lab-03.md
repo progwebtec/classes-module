@@ -2,7 +2,7 @@
 title: 'Lab 03: Implementing CRC Cards'
 author: kleinen/fernsel
 layout: lab
-draft: false
+draft: true
 weight: 030
 ---
 

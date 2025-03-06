@@ -1,7 +1,7 @@
 ---
 title: 'Lab 01: Application Design'
 author: kleinen
-draft: false
+draft: true
 weight: 010
 ---
 {{< figure src="/images/classes/info2/crc-cards.jpg" caption="CRC Cards">}}

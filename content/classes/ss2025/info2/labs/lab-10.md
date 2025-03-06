@@ -2,7 +2,7 @@
 title: 'Lab 10: Finite State Automata and Sorting Algorithms'
 author: kleinen
 layout: lab
-draft: false
+draft: true
 weight: 100
 ---
 

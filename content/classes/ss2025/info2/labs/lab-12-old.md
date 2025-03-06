@@ -2,7 +2,7 @@
 title: 'Lab 12: Scrabble Cheater - Basic Edition '
 author: kleinen
 layout: lab
-draft: false
+draft: true
 weight: 120
 ---
 

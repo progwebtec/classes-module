@@ -2,7 +2,7 @@
 title: 'Lab 06: Execution times'
 author: kleinen
 layout: lab
-draft: false
+draft: true
 weight: 60
 params:
   math: true

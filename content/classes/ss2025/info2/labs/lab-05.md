@@ -1,7 +1,7 @@
 ---
 title: 'Lab 05: Chatterbox'
 author: kleinen
-draft: false
+draft: true
 weight: 50
 ---
 

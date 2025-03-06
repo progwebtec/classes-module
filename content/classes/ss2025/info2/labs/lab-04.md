@@ -2,7 +2,7 @@
 title: 'Lab 04: Histogram'
 author: kleinen
 layout: lab
-draft: false
+draft: true
 weight: 40
 ---
 
