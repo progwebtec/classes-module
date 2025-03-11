@@ -4,6 +4,7 @@ author: kleinen
 draft: true
 weight: 010
 ---
+
 {{< figure src="/images/classes/info2/crc-cards.jpg" caption="CRC Cards">}}
 
 ## Learning Goals

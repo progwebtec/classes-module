@@ -43,7 +43,7 @@ If you decide to work on your own computer:
 * Install and set up [IntelliJ](https://www.jetbrains.com/idea/download). The community edition should be sufficient (scroll down to see it), you can get an [educational license](https://www.jetbrains.com/community/education/#students) for the IDEA Ultimate. 
 
 ### 2. Prepare some more...
-* Sign in to [GitHub](https://github.com) or [GitLab]()ou can use any (nick)name you want, these must be handed in in moodle so I can recognize you.
+* Sign in to [GitHub](https://github.com) or [GitLab]() you can use any (nick)name you want, these must be handed in in moodle so I can recognize you.
 * Read through the entire info page on the labs and note down any questions.
 * Bring headphones to the lab - you will watch a video.
 

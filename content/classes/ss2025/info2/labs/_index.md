@@ -25,7 +25,7 @@ Please be there on time. Please note that food and open beverages are not allowe
 ### Lab Assignments
 
 {{< subpages sort = "weight" >}}
- 
+
 ## Teams
 You will work in teams of two or three. 
 
