@@ -1,9 +1,9 @@
 ---
-title: M1 WS 2024/2025 Labs Schedule
+title: M1 SoSe 2025 Main Schedule (Fridays)
 author: kleinen
 CourseNav: Main Schedule
 weight: 20254
-draft: true
+draft: false
 ---
 | Week | KW  | Date           |            | Tentative Due Dates (will be fixed in class 1.11.) | Topic Area                                                                                         | Lab  |
 |:---- |:--- |:-------------- |:---------- |:-------------------------------------------------- |:-------------------------------------------------------------------------------------------------- |:---- |
