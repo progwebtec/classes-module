@@ -9,9 +9,9 @@ courseNavExt:
 - title: Moodle
   link: https://moodle.htw-berlin.de/course/view.php?id=52377
 - title: SU in LSF
-  link: https://lsf.htw-berlin.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=204740&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+  link: https://lsf.htw-berlin.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=214081&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 - title: Labs in LSF
-  link: https://lsf.htw-berlin.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=204411&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+  link: https://lsf.htw-berlin.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=213788&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
 - title: Semesterstundenplan im LSF
   link: https://lsf.htw-berlin.de/qisserver/rds?state=wplan&act=stg&pool=stg&show=plan&P.vx=kurz&r_zuordabstgv.semvonint=2&r_zuordabstgv.sembisint=2&k_abstgv.abstgvnr=231
 - title: Github
@@ -30,7 +30,7 @@ algorithms which work on these data structures.
 
 In particular we will be concentrating on how to solve (small) problems using a
 programming language. At the end of the semester there will be an introduction to
-another Programming Language - e.g. Python -  so that you get a feel for the
+another Programming Language - Python - so that you get a feel for the
 language and learn something about differences in programming languages.
 
 Have a look at how this breaks down on this (tentative) [Schedule](schedule).
@@ -41,18 +41,20 @@ The class consists of 2x2h of lectures and 2h of lab. Please refer to the LSF
 for time and location information (link above in the External Links menu).
 
 ## Tutorial
-
+{{<comment>}}
+TBD
 The tutorial will be held by Nico, more information to be provided
-
+{{</comment>}}
 
 ## Grades & Exam
 
 As in Informatics 1, there will be a Lab, and there will be an Exam.
 | Part | Weight | Role                                             | Type      |
 |:-----|:-------|:-------------------------------------------------|:----------|
-| Exam | 60/100 Points   | schriftliche Modulabschlussprüfung (§ 10 RStPO)  | Moodle Quizz and Programming Assignments in Java and Python |
-| Labs | 40/100 Points    | studienbegleitende Teilmodulprüfung (§ 12 RStPO) | Weekly Lab Reports |
-
+| Exam | 50/100 Points   | schriftliche Modulabschlussprüfung (§ 10 RStPO)  | Moodle Quizz and Programming Assignments in Java and Python |
+| Labs | 50/100 Points    | studienbegleitende Teilmodulprüfung (§ 12 RStPO) | Weekly Lab Reports |
+{{<comment>}}
+TBD Sascha!
 
 ### Grading of Lab Reports
 
@@ -62,7 +64,7 @@ Less or equal to 60% of labs with an ok:  0% for the lab part.
 61%-100% of lab reports with an ok:, you will receive 1-40 Points of the maximum of 40 Points for the labs.
 
 You may hand in a lab a second time using one of the late slots.
-
+{{</comment>}}
 ### Examinations for Students who already took Info2
 
 You can participate in the class with or without registering in LSF. Make

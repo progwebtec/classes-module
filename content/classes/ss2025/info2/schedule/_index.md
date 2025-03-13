@@ -26,13 +26,13 @@ Tentative Schedule (6.3.2025)
 |      |     | Thu 15/05/2025 |                | Data Types: Stacks                                                                                                       |                                                                                    |     |
 | 8    | 21  | Tue 20/05/2025 |                | Recursion                                                                                                                | {{% link title ="Reverse Polish Notation" link = "../labs/lab-07" %}}              |     |
 |      |     | Thu 22/05/2025 |                | Graphs & Graph Algorithms Part I                                                                                         |                                                                                    |     |
-| 9    | 22  | Tue 27/05/2025 |                | Sorting [see Chapter in Algorithms Book: Sorting](https://algs4.cs.princeton.edu/20sorting/)                             | {{% link title ="Recursive Triangles" link = "../labs/lab-08" %}}                  |     |
+| 9    | 22  | Tue 27/05/2025 |                | Sorting                 |     |
 |      |     | Thu 29/05/2025 | Himmelfahrt    | ***No Class***                                                                                                           |                                                                                    |     |
 | 10   | 23  | Tue 03/06/2025 |                | Recursion Part II: Permutations (Permutations.java), Backtracking (TicTacToe.java), Sorting Part II: Heapsort            |                                                                                    |     |
 |      |     | Thu 05/06/2025 |                | e-learning Assignment: Trees, Queues, Priority Queues: Implement a Priority Queue with a Heap! see for instance 1. below |                                                                                    |     |
 | 11   | 24  | Tue 10/06/2025 |                | Finite State Automata                                                                                                    | {{% link title ="Eight Queens" link = "../labs/lab-09" %}}                         |     |
-|      |     | Thu 12/06/2025 |                | Graphs & Graph Algorithms Part II (Dijkstra)  - [S./W.: Algorithms Ch. 4](https://algs4.cs.princeton.edu/40graphs/)      |                                                                                    |     |
-| 12   | 25  | Tue 17/06/2025 |                | Sort Summary, esp. Heapsort, Hashing, see also [Hash Tables](https://algs4.cs.princeton.edu/34hash/)                     | {{% link title ="Finite State Automata and Sorting" link = "../labs/lab-10" %}}    |     |
+|      |     | Thu 12/06/2025 |                | Graphs & Graph Algorithms Part II (Dijkstra)       |     |
+| 12   | 25  | Tue 17/06/2025 |                | Sort Summary, esp. Heapsort, Hashing     |     |
 |      |     | Thu 19/06/2025 |                | Searching + String Searching                                                                                             |                                                                                    |     |
 | 13   | 26  | Tue 24/06/2025 |                | Data Structures: Trees                                                                                                   | {{% link title ="Getting from A to B" link = "../labs/lab-11" %}}                  |     |
 |      |     | Thu 26/06/2025 |                | Python Intro                                                                                                             |                                                                                    |     |
@@ -47,12 +47,15 @@ Tentative Schedule (6.3.2025)
 | 18   |     | Fri 25/07/2025 |                | No lecture                                                                                                               |                                                                                    |     |
 |      |     | Thu 31/07/2025 | Showtime       | Showtime                                                                                                                 |                                                                                    |     |
 
+{{<comment>}}
 
+[Hash Tables](https://algs4.cs.princeton.edu/34hash/)                     | {{% link title ="Finite State Automata and Sorting" link = "../labs/lab-10" %}}
+Dijstra: - [S./W.: Algorithms Ch. 4](https://algs4.cs.princeton.edu/40graphs/)      |                                                                               
 1. [2.4 Priority Queues](https://algs4.cs.princeton.edu/24pq/) in Sedgewick: Algorithms
 
 Bits. Or: What every programmer must know about [Floating-Point Arithmetic](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) and [Character Encodings/Unicode](https://www.joelonsoftware.com/2003/10/08/e-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
-
+ [see Chapter in Algorithms Book: Sorting](https://algs4.cs.princeton.edu/20sorting/)                             | {{% link title ="Recursive Triangles" link = "../labs/lab-08" %}} 
 
 einmaliger Feiertag anlässlich des 80. Jahrestags der Befreiung vom Nationalsozialismus und des Endes des Zweiten Weltkriegs
 
@@ -98,6 +101,8 @@ einmaliger Feiertag anlässlich des 80. Jahrestags der Befreiung vom Nationalsoz
 | Showtime |     |                |                |                                                                                                                                      |                                                                                      |                                                            |     |     |
 |          |     |                |                |                                                                                                                                      |                                                                                      |                                                            |     |     |
 
+{{</comment>}}
+{{<comment>}}
 <!--
 DWW
 Introduction to the course
@@ -155,3 +160,4 @@ If time: more Java AWT
 (AllComponents.java- Scribble2.java - FrameHandler.java)
 
 -->
+{{</comment>}}
