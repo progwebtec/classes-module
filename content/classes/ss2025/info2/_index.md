@@ -34,7 +34,7 @@ programming language. At the end of the semester there will be an introduction t
 another Programming Language - Python - so that you get a feel for the
 language and learn something about differences in programming languages.
 
-Have a look at how this breaks down on this (tentative) [Schedule](schedule).
+Have a look at how this breaks down to this (tentative) [Schedule](schedule).
 
 ## Meetings/Weekly Schedule
 
