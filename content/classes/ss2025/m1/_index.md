@@ -28,9 +28,7 @@ params:
 M1 Media Programming is a general refresher and brush-up on your programming and software engineering skills. 
 The class is divided in two rather independent parts: 
 1. The Lab on Wednesday introduces the three specialisation areas of our media informatics program: Game Technology and Interactive Systems, Visual Computing and Web Technology.
-
-{{< comment >}}
-
+sdafadsf
 This part is held
 by various lectures according to the respective area, refer to the [lab schedule](./schedule) for more information.
 
@@ -49,7 +47,7 @@ The Module Description:
 The M1 grade will be determined as following:
 
 1. You have to pass each of the three lab parts of the Wednesday Labs (unbewertet, Prüfungsvoraussetzung)
-2. There will be an Exam (Probably Moodle-Exam) at the end of term: 50% (bewertete Teilmodulprüfung) 
+2. There will be an Exam in Moodle at the end of term: 50% (bewertete Teilmodulprüfung) 
     This exam will be mainly on the main part (70%) and partly on the three specialization areas (3*10%)
 3. Graded Lab Part for Main Part: 50%
 
@@ -65,4 +63,3 @@ You will need to hand in 6-7 Lab reports for the main part:
   7. TBD
 
 This planning is also tentative, It will be adjusted according to our overall planning, and the reports will be weighted accordingly.
-{{</ comment >}}
