@@ -7,6 +7,7 @@ draft: true
 weight: 200
 ---
 
+Hello!
 
 Welcome! On this page you find important information about the labs: How to prepare, how to communicate, what to work on, how to submit. Read through it carefully and ask if anything is unclear.
 

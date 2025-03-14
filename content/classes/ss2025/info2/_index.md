@@ -1,6 +1,7 @@
 ---
 title: B7 Informatik 2 Summer 2025
 author: kleinen
+lecturer: Prof. Dr. Barne Kleinen, Alexander Müller-Lobeck
 weight: 1
 aliases: /info2/
 draft: false
