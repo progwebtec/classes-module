@@ -2,11 +2,11 @@
 title: AWE Buddy-Programm
 author: kleinen
 lecturer: Prof. Dr. Barne Kleinen
-date: 2025-04-01
+date: 2025-03-19
 weight: 1
 aliases: 
-- /classes/ss2025/buddies/
 - /buddies/
+- /classes/ss2025/buddies/
 draft: false
 CourseNav: Buddy Programm
 courseNavExt:
