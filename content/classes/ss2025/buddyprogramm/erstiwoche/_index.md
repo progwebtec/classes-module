@@ -7,9 +7,11 @@ CourseNav: Ersti-Woche
 aliases: 
 - /erstsemester
 - /welcome-imi
+- /erstis
 draft: false
 params:
   author: 'Barne Kleinen'
+
 ---
 
 Willkommen an der HTW im Studiengang Internationale Medieninformatik!
