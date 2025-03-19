@@ -1,13 +1,14 @@
 ---
 title: AWE Buddy-Programm
 author: kleinen
+lecturer: Prof. Dr. Barne Kleinen
 date: 2025-04-01
-weight: 3
-CourseNav: Buddy-Programm
+weight: 1
 aliases: 
-- /classes/ss2025/buddies
-- /buddies
+- /classes/ss2025/buddies/
+- /buddies/
 draft: false
+CourseNav: Buddy Programm
 courseNavExt:
 - title: Begrüssungsveranstaltung Bachelor
   link: https://moodle.htw-berlin.de/course/view.php?id=52376
@@ -19,9 +20,7 @@ courseNavExt:
   link: https://lsf.htw-berlin.de/qisserver/rds?state=wplan&act=stg&pool=stg&P.subc=plan&k_abstgv.abstgvnr=231&idcol=k_abstgv.abstgvnr&idval=231&r_zuordabstgv.semvonint=1&k_abstgv.dtxt=internationale&r_zuordabstgv.sembisint=1&purge=n&getglobal=n&text=Internationale+Medieninformatik+%28B%29%2C+Pr%C3%BCfungsOrdnung+20112&week=-20
 - title: 1. Semester Master im LSF
   link: Classes Summer Term 2025https://lsf.htw-berlin.de/qisserver/rds?state=wplan&act=stg&pool=stg&P.subc=plan&k_abstgv.abstgvnr=312&idcol=k_abstgv.abstgvnr&idval=312&r_zuordabstgv.semvonint=1&k_abstgv.dtxt=internationale&r_zuordabstgv.sembisint=1&purge=n&getglobal=n&text=Internationale+Medieninformatik+%28M%29%2C+Pr%C3%BCfungsOrdnung+20162&week=-20
-params:
-  author: 'Barne Kleinen'
-  lecturer: 'Prof. Kleinen'
+
 ---
 
 ## Welcome!
