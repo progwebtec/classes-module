@@ -1,26 +1,29 @@
 ---
 title: AWE Buddy-Programm
 author: kleinen
-date: 2024-06-09
+date: 2025-04-01
 weight: 3
 CourseNav: Buddy-Programm
 aliases: 
 - /classes/ss2025/buddies
+- /buddies
 draft: false
-# courseNavExt:
-# - title: Moodle
-#   link: https://moodle.htw-berlin.de/course/view.php?id=50774
-# - title: Github
-#   link: https://github.com/htw-imi-media-programming
-# - title: M1 in LSF
-#   link: https://lsf.htw-berlin.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=208241&moduleCall=webInfo&publishConfFile=webInfo&# publishSubDir=veranstaltung
-# - title: Term Schedule in LSF
-#   link: https://lsf.htw-berlin.de/qisserver/rds?state=wplan&act=stg&pool=stg&show=plan&P.vx=kurz&r_zuordabstgv.semvonint=1&r_zuordabstgv.sembisint=4&# k_abstgv.abstgvnr=312&week=-20
-# - title: This week in LSF
-#   link: https://lsf.htw-berlin.de/qisserver/rds?state=wplan&act=stg&pool=stg&show=plan&P.vx=kurz&r_zuordabstgv.semvonint=1&r_zuordabstgv.sembisint=4&# k_abstgv.abstgvnr=312
+courseNavExt:
+- title: Begrüssungsveranstaltung Bachelor
+  link: https://moodle.htw-berlin.de/course/view.php?id=52376
+- title: Begrüssungsveranstaltung Master
+  link: https://moodle.htw-berlin.de/user/index.php?id=52378
+- title: Moodle AWE Buddyprogramm 
+  link: https://moodle.htw-berlin.de/course/view.php?id=52375
+- title: 1. Semester Bachelor im LSF
+  link: https://lsf.htw-berlin.de/qisserver/rds?state=wplan&act=stg&pool=stg&P.subc=plan&k_abstgv.abstgvnr=231&idcol=k_abstgv.abstgvnr&idval=231&r_zuordabstgv.semvonint=1&k_abstgv.dtxt=internationale&r_zuordabstgv.sembisint=1&purge=n&getglobal=n&text=Internationale+Medieninformatik+%28B%29%2C+Pr%C3%BCfungsOrdnung+20112&week=-20
+- title: 1. Semester Master im LSF
+  link: Classes Summer Term 2025https://lsf.htw-berlin.de/qisserver/rds?state=wplan&act=stg&pool=stg&P.subc=plan&k_abstgv.abstgvnr=312&idcol=k_abstgv.abstgvnr&idval=312&r_zuordabstgv.semvonint=1&k_abstgv.dtxt=internationale&r_zuordabstgv.sembisint=1&purge=n&getglobal=n&text=Internationale+Medieninformatik+%28M%29%2C+Pr%C3%BCfungsOrdnung+20162&week=-20
 params:
   author: 'Barne Kleinen'
   lecturer: 'Prof. Kleinen'
 ---
 
 ## Welcome!
+
+Das AWE-Buddyprogramm
