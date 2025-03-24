@@ -2,7 +2,7 @@
 title: 'Lab 12: Scrabble Cheater - Basic Edition '
 author: kleinen
 layout: lab
-draft: draft # with improvements for next round
+draft: true # with improvements for next round
 weight: 120
 ---
 
