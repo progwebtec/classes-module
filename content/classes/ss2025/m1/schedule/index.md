@@ -28,26 +28,14 @@ Time and Room: See LSF (link in external links above)
 |9 | 22 | Wed 28/05/2025 | Web Technology                          | Gefei Zhang     |
 |10 | 23 | Wed 04/06/2025 | Web Technology                          | Gefei Zhang     |
 |11 | 24 | Wed 11/06/2025 | Web Technology                          | Gefei Zhang     |
-|12 | 25 | Wed 18/06/2025 | Visual Computing                        | Klaus Jung      |
-|13 | 26 | Wed 25/06/2025 | Visual Computing                        | Nico Hezel      |
-|14 | 27 | Wed 02/07/2025 | Visual Computing                        | Kai Barthel     |
-|15 | 28 | Wed 09/07/2025 | Visual Computing                        | Nico Hezel      |
-|16 | 29 | Wed 16/07/2025 | Visual Computing                        | Nico Hezel      |
+|12 | 25 | Wed 18/06/2025 | Visual Computing                        | Klaus Jung    |
+|13 | 26 | Wed 25/06/2025 | Visual Computing                        | Klaus Jung    |
+|14 | 27 | Wed 02/07/2025 | Visual Computing                        | Sebastian Knorr    |
+|15 | 28 | Wed 09/07/2025 | Visual Computing                        | Sebastian Knorr    |
+|16 | 29 | Wed 16/07/2025 | Visual Computing                        | Sebastian Knorr    |
 |17 | 30 | Wed 23/07/2025 |                                         |                 |
 
 
 1. Prüfungszeitraum	14.07. – 02.08.2025
 2. Prüfungszeitraum	24.09. – 08.10.2025
-
-
-
-
-
-
-
-
-
-
-
-
 
