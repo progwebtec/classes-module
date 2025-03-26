@@ -70,6 +70,8 @@ There will be a moodle exam at the end of term mostly on the lectures and some q
 | Quizzes | 10/100 Points    | Extra-Points for Quizzes during the term |  |
 
 
+.
+
 {{<comment>}}
 
 TBD - from info2
