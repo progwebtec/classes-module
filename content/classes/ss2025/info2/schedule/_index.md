@@ -61,6 +61,13 @@ Tentative Schedule (6.3.2025)
 |      |     | Thu 24/07/2025 |                | No lecture                                                                                                               |                                                                                    |     |
 | 18   |     | Fri 25/07/2025 |                | No lecture                                                                                                               |                                                                                    |     |
 |      |     | Thu 31/07/2025 | Showtime       | Showtime                                                                                                                 |                                                                                    |     |
+## Notes
+
+\* 8.5.2025: einmaliger Feiertag anlässlich des 80. Jahrestags der Befreiung vom Nationalsozialismus und des Endes des zweiten Weltkriegs 
+
+1. Prüfungszeitraum	14.07. – 02.08.2025
+2. Prüfungszeitraum	24.09. – 08.10.2025
+
 
 {{<comment>}}
 
