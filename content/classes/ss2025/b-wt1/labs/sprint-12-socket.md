@@ -1,5 +1,5 @@
 ---
-title: Sprint 12 - Adding Support for Socket.io
+title: Lab 12 - Adding Support for Socket.io
 author: kerth
 draft: true
 ---

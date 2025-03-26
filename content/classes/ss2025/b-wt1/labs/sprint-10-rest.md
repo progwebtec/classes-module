@@ -1,5 +1,5 @@
 ---
-title: Sprint 10 - Building a REST API
+title: Lab 10 - Building a REST API
 author: kerth
 draft: true
 ---

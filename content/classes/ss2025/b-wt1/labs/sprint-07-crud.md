@@ -1,5 +1,5 @@
 ---
-title: Sprint 07 - Adding CRUD Support
+title: Lab 07 - Adding CRUD Support
 author: kerth
 draft: true
 ---

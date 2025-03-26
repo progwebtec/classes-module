@@ -1,15 +1,32 @@
 ---
 title: WTAT1 Topics
 author: kert, kleinen
-draft: true
+draft: false
 courseNav: Labs
 ---
 
 ### Lab Assignments
 
-We will work with the method Topic Driven Backlog: The tech topic is
-given for each week and sprint, you choose backlog items from your
-project backlog that allow you to practice/use the technologies given.
+During the labs, you will work on a web application on a topic of your choice in a small team of 3-4 people.
+Topic selection and Team/Group formation will be initiated in Lab 01, and finalized in Lab 02.
+
+We will work with the method "Tech Driven Backlog": The tech topic is
+given for each week and lab assignment, and you choose a feature for your project which allows you to practice 
+and use the respective technologies.
+
+During the labs and your additional preperation time/learning time during the week you will work together
+on the assignment. 
+
+The output will be a lab report in pdf format describing your work (more details will be in the assignments)
+and the your source code, provided in a git repository and tagged as specified in the lab assignment. 
+
+Each team member has to upload the *same* lab report - the one that you wrote together - in the moodle assignment submission.
+All team member names need to be at the top of the first page of this report. I will not assign grades to students
+who have not submitted a report.
+
+
+
+Labs will be graded with the  [Star Grading Scale](../../../../studies/grading/guideline#star-gradings-for-exercises).
 
 List of Sprints/Topics:
 
@@ -25,6 +42,7 @@ List of Sprints/Topics:
 - {{% link title ="Lab 10: Building a REST API" link = "../labs/sprint-10-rest" %}}
 - {{% link title ="Lab 11: Securing a REST API" link = "../labs/sprint-11-securing-rest" %}}
 - {{% link title ="Lab 12: Adding Support for Socket.io" link = "../labs/sprint-12-socket" %}}
+
 
 <!--
 All Pages in this dir that are not a draft::

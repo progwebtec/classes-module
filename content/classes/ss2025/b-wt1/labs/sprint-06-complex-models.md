@@ -1,5 +1,5 @@
 ---
-title: Sprint 06 - Supporting Complex Models
+title: Lab 06 - Supporting Complex Models
 author: kerth
 draft: true
 ---

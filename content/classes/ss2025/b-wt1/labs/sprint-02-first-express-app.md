@@ -1,7 +1,8 @@
 ---
-title: Sprint 02 - Building a First Express App
+title: Lab 02 - Building a First Express Application
 author: kerth
 draft: true
+notoc: true
 ---
 
 #### Agile Topic: Product Owner

@@ -1,5 +1,5 @@
 ---
-title: Sprint 09 - Adding Support for Passport.js
+title: Lab 09 - Adding Support for Passport.js
 author: kerth
 draft: true
 ---

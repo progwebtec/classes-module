@@ -1,5 +1,5 @@
 ---
-title: Sprint 08 - Adding Login Support
+title: Lab 08 - Adding Login Support
 author: kerth
 draft: true
 ---

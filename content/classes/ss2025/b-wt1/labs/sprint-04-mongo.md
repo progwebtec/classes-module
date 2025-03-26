@@ -1,5 +1,5 @@
 ---
-title: Sprint 04 - Adding Mongo Support
+title: Lab 04 - Adding Mongo Support
 author: kerth
 draft: true
 ---

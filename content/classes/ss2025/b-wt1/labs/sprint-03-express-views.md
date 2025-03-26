@@ -1,5 +1,5 @@
 ---
-title: Sprint 03 - Adding Views to the Express App
+title: Lab 03 - Adding Views to the Express App
 author: kerth
 draft: true
 ---

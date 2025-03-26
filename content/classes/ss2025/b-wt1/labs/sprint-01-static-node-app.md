@@ -1,8 +1,11 @@
 ---
-title: Sprint 01 - Building a Static Web Application
+title: Lab 01 - Building a Static Web Application
 author: kerth
-draft: false
+draft: true
+notoc: true
 ---
+
+notes: github abgabe, sachen für den report - was soll rein, tag für die abgabe.
 
 #### Agile Topic: Project Ideas
 

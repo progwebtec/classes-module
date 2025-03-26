@@ -1,5 +1,5 @@
 ---
-title: Sprint 05 - Understanding Promises
+title: Lab 05 - Understanding Promises
 author: kerth
 draft: true
 ---

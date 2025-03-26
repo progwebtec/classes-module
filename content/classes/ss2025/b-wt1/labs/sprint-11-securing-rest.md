@@ -1,5 +1,5 @@
 ---
-title: Sprint 11 - Securing a REST API
+title: Lab 11 - Securing a REST API
 author: kerth
 draft: true
 ---
