@@ -51,10 +51,11 @@ Sie können natürlich auch "einfach so" bei der Ersti-Woche mithelfen (und auch
 
 [Bitte melden Sie sich im LSF an (Gruppe G!)](https://lsf.htw-berlin.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=213925&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) und [schicken mir eine email](mailto:kleinen@htw-berlin.de).
 
+{{<comment>}}
 ## Termine
 
 - Montag, 24.3.2025 17:30-18:30 Buddy-Treffen (Vorbesprechung der Ersti-Woche)
 - Ersti-Beutel packen: "Fachschaft packt die Welcome Beutel voraussichtlich am Freitag, 28.03.2025
 Raum WH C 259 ab 08 Uhr"
-
+{{</ comment>}}
 
