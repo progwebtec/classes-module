@@ -22,7 +22,6 @@ courseNavExt:
 Welcome!
 
 
-
 This course is an introduction to *distributed systems* with the practical example of *web applications*.
 
 It will be
