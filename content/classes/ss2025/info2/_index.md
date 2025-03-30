@@ -55,6 +55,7 @@ As in Informatics 1, there will be a Lab, and there will be an Exam.
 | Exam | 50/100 Points   | schriftliche Modulabschlussprüfung (§ 10 RStPO)  | Moodle Quizz and Programming Assignments in Java and Python |
 | Labs | 50/100 Points    | studienbegleitende Teilmodulprüfung (§ 12 RStPO) | Weekly Lab Reports |
 {{<comment>}}
+
 TBD Sascha!
 
 ### Grading of Lab Reports
