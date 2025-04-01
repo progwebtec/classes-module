@@ -95,3 +95,6 @@ ifneq ($(current_branch),main)
 - echo $(ERR)
 endif
 
+actions:
+- open https://github.com/bkleinen/bkleinen.github.io/actions
+- open https://github.com/progwebtec/progwebtec.github.io/actions
