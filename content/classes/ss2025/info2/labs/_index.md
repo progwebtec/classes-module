@@ -3,7 +3,7 @@ title: B7 Informatik 2 Summer 2025 - Labs and Exercises
 author: kleinen
 layout: page
 courseNav: Labs
-draft: true
+draft: false
 weight: 200
 ---
 
