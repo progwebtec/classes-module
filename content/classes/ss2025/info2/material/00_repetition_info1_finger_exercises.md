@@ -3,7 +3,7 @@ title: Repetition - Finger Exercises
 author: kleinen
 layout: page
 draft: false
-weight: 1
+weight: 10
 ---
 
 This is a small collection of programming finger exercises to get you back to

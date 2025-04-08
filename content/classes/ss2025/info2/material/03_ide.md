@@ -2,7 +2,7 @@
 title: "IntelliJ & Tools"
 date: 2021-10-08T20:33:18+02:00
 draft: true
-weight: 3
+weight: 30
 ---
 
 

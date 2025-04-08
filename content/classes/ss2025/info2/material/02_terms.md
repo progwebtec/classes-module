@@ -3,7 +3,7 @@ title: Repetition - Terms
 author: kleinen
 layout: page
 draft: false
-weight: 2
+weight: 20
 ---
 
 ## These are the Terms from the Info1 Book.

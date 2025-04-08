@@ -3,6 +3,7 @@ title: Info 2 Textbooks - Algorithms and Data Structures
 author: kleinen
 layout: page
 draft: false
+weight: 5
 ---
 
 ## Textbooks and Material
