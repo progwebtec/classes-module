@@ -33,16 +33,20 @@ You will work in teams of two or three.
 Lab Reports are due at 10pm the night before your next lab.
 
 ### Grading
-Lab reports won't be graded - they just get marked with "ok" or "not ok".  
-A report is "not ok" if any of the following is True:
-* the report is missing
-* you are not transparent on who did what (You need to be transparent on who did what. Collaborating with people outside your team is ok,
-but be transparent about it! Using sources from the Internet/books is ok, but cite them appropriately!)
-* the report has too little significant content on the lab (see below)
-* the report is not submitted correctly (see below)
-* the code is not submitted correctly (see below)
 
-You can use the late slot (see below) to hand in rejected Lab Reports again.
+Lab reports will be graded according to the following scheme:
+
+| Grade      | Meaning |
+|:--- |:--- |
+| ****+ | Exceptional: above and beyond the call of duty. Very seldom. Additional red star. |
+| ****- | Excellent: All of the exercises completed and an excellent report. |
+| ***- - | Very good: All of the exercises completed, and a good report that may have some minor problems. |
+| **- - - | Good: Something is missing, although the report is good, or the report has major problems. |
+| *- - - - | Satisfactory: Nothing worked, but you had a good report. |
+| - - - - - | Nothing worked, but you managed to scrape together a report. Or you did a million bells and whistles, but turned in a half-page report using bullet lists of misspelled sentence fragements that are, however, technically a report on time. |
+| X | Late work, not handed in. |
+
+4 Stars are full (usually 5/5) points, 5 Stars equals 6/5 points and is very seldom.
 
 You will not be allowed to take the exam if you plagiarized.
 
