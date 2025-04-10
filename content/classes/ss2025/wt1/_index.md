@@ -60,11 +60,17 @@ The lecture and one of the two labs are on Thursdays, and there are **3** (!) ba
 
 ## Grades & Exam
 
-Labs will be graded with a simple star scale, and together form a "studienbegleitende Teilmodulprüfung".
+
+Labs 2-n will be graded with a simple star scale, and together form a "studienbegleitende Teilmodulprüfung".
 There will be a moodle exam at the end of term mostly on the lectures and some questions on the lab topics.
+{{<alert>}}The first lab will not be graded, but is by itself a "undifferenzierte Teilmodulprüfung" 
+and successful individual submission of this lab is required to participate in the Labs and in the Exam.{{</alert>}}
+ 
+{{<alert danger>}}Die Abgabe des ersten Labs wird nicht mit benotet, ist aber Prüfungsvoraussetzung für die anderen Teile! {{</alert>}}
 
 | Part | Weight | Role                                             | Type      |
 |:-----|:-------|:-------------------------------------------------|:----------|
+| Project Proposal and Static Site (Lab 01) | undifferenziert   | undifferenzierte Teilmodulprüfung, Vorraussetzung für die Klausur  | Moodle Upload and Feedback |
 | Exam | 50/100 Points   | schriftliche Modulabschlussprüfung (§ 10 RStPO)  | Moodle Quizz and Programming Assignments |
 | Labs | 50/100 Points    | studienbegleitende Teilmodulprüfung (§ 12 RStPO) | Weekly Lab Reports |
 | Quizzes | 10/100 Points    | Extra-Points for Quizzes during the term |  |
