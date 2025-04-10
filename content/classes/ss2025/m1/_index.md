@@ -7,17 +7,17 @@ CourseNav: M1
 aliases: 
 - /classes/ss2025/m1-web
 draft: false
-# courseNavExt:
-# - title: Moodle
-#   link: https://moodle.htw-berlin.de/course/view.php?id=50774
-# - title: Github
-#   link: https://github.com/htw-imi-media-programming
-# - title: M1 in LSF
-#   link: https://lsf.htw-berlin.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=208241&moduleCall=webInfo&publishConfFile=webInfo&# publishSubDir=veranstaltung
-# - title: Term Schedule in LSF
-#   link: https://lsf.htw-berlin.de/qisserver/rds?state=wplan&act=stg&pool=stg&show=plan&P.vx=kurz&r_zuordabstgv.semvonint=1&r_zuordabstgv.sembisint=4&# k_abstgv.abstgvnr=312&week=-20
-# - title: This week in LSF
-#   link: https://lsf.htw-berlin.de/qisserver/rds?state=wplan&act=stg&pool=stg&show=plan&P.vx=kurz&r_zuordabstgv.semvonint=1&r_zuordabstgv.sembisint=4&# k_abstgv.abstgvnr=312
+courseNavExt:
+- title: Moodle
+  link: https://moodle.htw-berlin.de/course/view.php?id=52374
+- title: Github
+  link: https://github.com/htw-imi-media-programming
+- title: M1 in LSF
+  link: https://lsf.htw-berlin.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=213862&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung
+- title: Term Schedule in LSF
+  link: https://lsf.htw-berlin.de/qisserver/rds?state=wplan&act=stg&pool=stg&P.subc=plan&k_abstgv.abstgvnr=312&idcol=k_abstgv.abstgvnr&idval=312&r_zuordabstgv.semvonint=1&r_zuordabstgv.sembisint=4&purge=n&getglobal=n&text=Internationale+Medieninformatik+%28M%29%2C+PO+20162&week=-20
+- title: This week in LSF
+  link: https://lsf.htw-berlin.de/qisserver/rds?state=wplan&act=stg&pool=stg&P.subc=plan&k_abstgv.abstgvnr=312&idcol=k_abstgv.abstgvnr&idval=312&r_zuordabstgv.semvonint=1&r_zuordabstgv.sembisint=4&purge=n&getglobal=n&text=Internationale+Medieninformatik+%28M%29%2C+PO+20162
 params:
   author: 'Barne Kleinen'
   lecturer: 'Prof. Kleinen e.a.'
@@ -26,7 +26,7 @@ params:
 ## Welcome!
 
 M1 Media Programming is a general refresher and brush-up on your programming and software engineering skills. 
-The class is divided in two rather independent parts: 
+The class is divided in two mostly independent parts: 
 1. The Lab on Wednesday introduces the three specialisation areas of our media informatics program: Game Technology and Interactive Systems, Visual Computing and Web Technology.
 sdafadsf
 This part is held
@@ -52,14 +52,4 @@ The M1 grade will be determined as following:
 3. Graded Lab Part for Main Part: 50%
 
 ### Main Labs
-You will need to hand in 6-7 Lab reports for the main part:
-
-  1. Personal Summary on OO & Software Crafting part, Report on Exercises
-  2. Proposal for Open Source Project
-  3. Brief Report on Refactoring Exercise, including source code
-  4. Report on Open Source Project, including source code
-  5. TBD
-  6. TBD
-  7. TBD
-
-This planning is also tentative, It will be adjusted according to our overall planning, and the reports will be weighted accordingly.
+You will need to hand in 6-7 Lab reports for the main part, see the [Assignments Page](./assignments/)  for details.

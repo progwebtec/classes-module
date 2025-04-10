@@ -1,19 +1,18 @@
 ---
-title: Learn TDD with a Code Kata
+title: Assignment 01 - TDD Kata
 author: kleinen
-weight: 30
+weight: 10
 draft: false
 source: https://github.com/htw-imi-media-programming/kata-scaffold
 ---
 
 In this assignment you work on a simple Coding Kata - FizzBuzz - to practice Test Driven Design.
 
-You can work alone on this or in pairs. 
+Please work on this exercise in pairs. Both of you need to hand in the same report.
 
 
 ## Hand-In
-You will hand in a report and the source code for this assignment as part of the first lab report. 
-Make sure to keep a logbook with notes of anything that you observe to ease writing the report later.
+You will hand in a written report in pdf format and a link to the source code repo. Make sure to keep a logbook with notes of anything that you observe to ease writing the report later.
 
 ## Assignment
 
