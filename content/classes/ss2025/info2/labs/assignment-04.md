@@ -1,5 +1,5 @@
 ---
-title: 'Lab 06: Execution times'
+title: 'Lab 04: Execution times'
 author: kleinen
 layout: lab
 draft: true

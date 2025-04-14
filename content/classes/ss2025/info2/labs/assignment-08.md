@@ -1,5 +1,5 @@
 ---
-title: 'Lab 10: Finite State Automata and Sorting Algorithms'
+title: 'Lab 08: Finite State Automata and Sorting Algorithms'
 author: kleinen
 layout: lab
 draft: true

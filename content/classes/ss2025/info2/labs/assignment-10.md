@@ -1,5 +1,5 @@
 ---
-title: 'Lab 12: Scrabble Cheater - Basic Edition '
+title: 'Lab 10: Scrabble Cheater - Basic Edition '
 author: kleinen
 layout: lab
 draft: true # with improvements for next round
