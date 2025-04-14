@@ -1,8 +1,8 @@
 ---
-title: 'Lab 03: Implementing CRC Cards'
+title: 'Lab 01: Implementing CRC Cards'
 author: kleinen/fernsel
 layout: lab
-draft: true
+draft: false
 weight: 030
 ---
 
@@ -58,7 +58,7 @@ You will only need to implement a part of the requested features (the bored may 
 
 1. Compare and Discuss your CRC Cards with other teams during the Lab.
 
-2. Implement the features you prepared with CRC Cards in the [previous lab]({{<ref "./lab-01/#cool-zuul">}} "Lab 01").
+2. Implement the features you prepared with CRC Cards in the lecture.
 
 3. You may team up with other teams to implement parts of the whole feature set together, which will
    require agreement on the design and some communication about the exact interfaces (method signatures) of
@@ -69,12 +69,6 @@ You will only need to implement a part of the requested features (the bored may 
 5. Answer the following questions: Did you end up using all of the classes you specified? Did you miss any classes? Discuss!
 
 6. Include your answer for P4 in your lab report.
-
-### For the bored:
-
-7. Implement [more or all features]({{<ref "./lab-01/#cool-zuul" >}}) or integrate
-   the work of several teams to get a full solution.
-
 
 ## Lab Report / What to turn in
 
