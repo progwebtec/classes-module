@@ -37,7 +37,9 @@ I remember concepts concerning program design:
 
 ## Pre-Lab
 
-This exercise builds on the design you did last week using CRC cards. Please think through the following questions together with your team before coming to the lab and write down your answers somewhere.
+This exercise builds on the design you did last week using CRC cards. 
+In Summer 2025 we did this in the lecture using this [material page]({{<ref "../material/cool-zuul-application-design" >}}).
+Please think through the following questions together with your team before coming to the lab and write down your answers somewhere.
 
 ***P1.*** Prepare a prioritized subset of features that you would like to implement.
 
