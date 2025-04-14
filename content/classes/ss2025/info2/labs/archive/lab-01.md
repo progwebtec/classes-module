@@ -98,7 +98,7 @@ about the implementation just yet.
 
 ## Lab Report / What to turn in
 
-All info on the lab reports can be found on the [Labs]({{<ref "../labs" >}}) page.
+All info on the lab reports can be found on the [Labs]({{<ref "../../labs" >}}) page.
 
 Additional requirements for this lab:
 * Please submit your final CRC cards and a description of the process you went through for creating them.
