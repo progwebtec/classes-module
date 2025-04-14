@@ -1,5 +1,5 @@
 ---
-title: 'Lab 09: Eight Queens'
+title: 'Lab 07: Eight Queens'
 author: kleinen
 layout: lab
 draft: true

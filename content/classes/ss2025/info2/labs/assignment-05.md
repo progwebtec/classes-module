@@ -1,5 +1,5 @@
 ---
-title: 'Lab 07: Reverse Polish Notation'
+title: 'Lab 05: Reverse Polish Notation'
 author: kleinen
 layout: lab
 draft: true

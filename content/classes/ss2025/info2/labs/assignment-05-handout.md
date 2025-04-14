@@ -1,5 +1,5 @@
 ---
-title: 'Lab 07 Handout: Infix/Prefix/Postfix'
+title: 'Lab 05 Handout: Infix/Prefix/Postfix'
 author: kleinen
 layout: lab
 draft: true

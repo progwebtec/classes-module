@@ -1,5 +1,5 @@
 ---
-title: 'Lab 03 Handout: A Note on the Notation of CRC Cards'
+title: 'Lab 01 Handout: A Note on the Notation of CRC Cards'
 author: kleinen
 draft: true
 weight: 031

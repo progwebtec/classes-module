@@ -1,5 +1,5 @@
 ---
-title: 'Lab 04: Histogram'
+title: 'Lab 02: Histogram'
 author: kleinen
 layout: lab
 draft: true

@@ -1,5 +1,5 @@
 ---
-title: 'Lab 08: Recursive Triangles'
+title: 'Lab 06: Recursive Triangles'
 author: kleinen
 layout: lab
 draft: true

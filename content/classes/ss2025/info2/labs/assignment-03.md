@@ -1,5 +1,5 @@
 ---
-title: 'Lab 05: Chatterbox'
+title: 'Lab 03: Chatterbox'
 author: kleinen
 draft: true
 weight: 50
