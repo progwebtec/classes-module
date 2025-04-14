@@ -1,5 +1,5 @@
 ---
-title: 'Lab 12: Scrabble Cheater - Basic Edition '
+title: 'Lab 10: Scrabble Cheater - Basic Edition '
 author: kleinen
 layout: lab
 draft: true # with improvements for next round
@@ -65,7 +65,7 @@ Hint: how often will *normalize()* be called a) for initialisation and b) for a 
 8. *For the bored*: Measure the time improvement introduced by the HashMap implementation. The measured time might be small, so chose an adequate unit or use a loop to execute the code often.
 
 ## Lab Report
-All info on the lab reports can be found on the [Labs]({{< relref "../../labs" >}}) page.
+All info on the lab reports can be found on the [Labs]({{< relref "../labs" >}}) page.
 
 <!--
 now part of lab 13:
