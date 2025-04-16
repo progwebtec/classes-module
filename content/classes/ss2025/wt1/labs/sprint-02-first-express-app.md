@@ -79,7 +79,19 @@ and http should redirect to https.
 Create a github repository for your source code and provide the url from which I can clone the repo from (either via public repo or by
 granting me the necessary access permissions. My github user name is bkleinen.)
 
-Write up a brief report containing:
+- ***fill out the moodle feedback to provide your group number, name and repo url***
+- ***tag the final version for this lab with the tag LAB_02***
+
+I will use the commands below to get your sourcecode, and nothing else. So test them in a tmp folder!
+
+```bash
+git clone <provided-url> <group-name>
+cd <group-name>
+git checkout LAB_02
+```
+
+
+### Write up a brief report containing:
 
 - Your group number and project name
 - The names of all team members
