@@ -1,3 +1,9 @@
+---
+title: rest
+author: kleinen
+draft: true
+weight: 2000
+---
 #### Development Topic: Building a Static Web Application
 
 During the first week, you will work individually, but are free to help each other. 
