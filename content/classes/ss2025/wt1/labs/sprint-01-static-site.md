@@ -2,6 +2,7 @@
 title: Lab 01 - Project Ideas, Dev Environment Setup, Building a Static Web Site
 author: kleinen
 draft: false
+weight: 110
 ---
 
 ## 1. Project Ideas
@@ -17,7 +18,7 @@ and it will be easier if you have enough stories to choose from for the sprints.
 
 The scope of the user stories should cover the following technical topics:
 
-* one or more model class can be created, read, updated and deleted
+* one or more model classes can be created, read, updated and deleted
 * a user model with user authentication is implemented
 * some form of real-time communication is supported (e.g. a chat or notification service)
 * a REST API is available to retrieve data in a JSON format

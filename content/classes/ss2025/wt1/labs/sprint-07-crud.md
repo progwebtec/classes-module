@@ -2,6 +2,7 @@
 title: Lab 07 - Adding CRUD Support
 author: kerth
 draft: true
+weight: 1090
 ---
 #### Agile Topic: Estimation
 

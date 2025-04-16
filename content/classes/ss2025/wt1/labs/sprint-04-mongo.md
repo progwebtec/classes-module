@@ -2,6 +2,7 @@
 title: Lab 04 - Adding Mongo Support
 author: kerth
 draft: true
+weight: 1060
 ---
 #### Agile Topic: Daily Scrum
 

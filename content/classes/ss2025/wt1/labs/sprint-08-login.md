@@ -2,6 +2,7 @@
 title: Lab 08 - Adding Login Support
 author: kerth
 draft: true
+weight: 1100
 ---
 
 #### Agile Topic: Definition of Done

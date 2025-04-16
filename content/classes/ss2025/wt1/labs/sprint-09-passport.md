@@ -2,6 +2,7 @@
 title: Lab 09 - Adding Support for Passport.js
 author: kerth
 draft: true
+weight: 1120
 ---
 
 #### Agile Topic: Sprint Review

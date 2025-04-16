@@ -2,6 +2,7 @@
 title: Lab 03 - Adding Views to the Express App
 author: kerth
 draft: true
+weight: 1030
 ---
 
 #### Agile Topic: Scrum Master

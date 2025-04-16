@@ -2,6 +2,7 @@
 title: Lab 06 - Supporting Complex Models
 author: kerth
 draft: true
+weight: 1080
 ---
 
 #### Agile Topic: Sprint Planning

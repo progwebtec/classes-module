@@ -2,6 +2,7 @@
 title: Lab 11 - Securing a REST API
 author: kerth
 draft: true
+weight: 1140
 ---
 
 #### Agile Topic

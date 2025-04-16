@@ -2,6 +2,7 @@
 title: Lab 10 - Building a REST API
 author: kerth
 draft: true
+weight: 1130
 ---
 
 #### Agile Topic: Sprint Retrospective

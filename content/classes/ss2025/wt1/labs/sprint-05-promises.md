@@ -2,6 +2,7 @@
 title: Lab 05 - Understanding Promises
 author: kerth
 draft: true
+weight: 1070
 ---
 
 #### Agile Topic: Sprint Backlog
