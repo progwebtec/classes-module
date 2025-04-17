@@ -66,7 +66,13 @@ but it's first purpose is to serve static files.
 
 Add a public_html folder to your project, and map it to a subpath using the nginx config such that all static html files in public_html are accessible via [http://localhost/doc](http://localhost/doc). You need to edit {{< source path = "sample-docker/nginx/templates/default.conf.template" >}} and the mounts in {{< source path = "sample-docker/compose.yml" >}}
 
-### e. For the bored: add sll with self-signed certificates
+### e. Is the Dockerfile / build needed?
+
+Review the Dockerfile and compose.yml - the Dockerfile defines our own image, and compose.yml contains instructions to build it.
+Is this really necessary? Why or why not? What would change if you wanted to deploy the app to production? (Hint: both the Dockerfile and the compose.yml will need adaptions)
+Discuss this questions in your team, and (try to) verify your hypotheses by trying them out in a branch. 
+
+### f. For the bored: add sll with self-signed certificates
 
 Add the ssl configuration from the (currently not used)
 {{< source path = "sample-docker/nginx/templates/default.conf.ssl.template" >}}, uncomment the environment variables in compose.yml
