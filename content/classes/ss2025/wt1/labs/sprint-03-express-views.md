@@ -1,44 +1,88 @@
 ---
-title: Lab 03 - Adding Views to the Express App
-author: kerth
+title: Lab 03 - Pages in Express and Handlebars
+author: kleinen
 draft: true
 weight: 1030
+source: https://github.com/htw-imi-wt1/lab-03-express-first-pages
 ---
 
-#### Agile Topic: Scrum Master
+Repo for this lab: {{<source >}}
 
-Name a Scrum Master from your team and have this person coordinate team meetings, such as the daily scrum.
+This lab is about designing the first two pages for your app and
+populating them with data using the template engine handlebars.
 
-#### Development Topic: Adding Views to the Express App
+## Assignment
+Consult the example below and the linked docs to solve the exercises.
 
-Add views and error handling to your application using Express.js (lessons 10, 11 and 12 of unit 2). If you've already
-created views in Sprint 01, you can migrate them to the Express app. Chose one or more stories where you can make use of
-the two new technological topics you've learned in Unit 2: View Templates and Dynamic Content.
+Use your dockerized app from last week as base for this week's express assignments. If you had trouble installing docker last week, give an update in this week's report. 
 
-##### Topic of the Week
+### 1. Stories and Interface Design
 
-View templates and dynamic content:
+1. Choose about one or two stories of your project backlog. They should contain some functionality that shows your main resource.
 
-- Choose and implement stories according to this week's topic. Look at your backlog and choose one or more stories
-  that requires you to create a view (if you already have one, a different one). Implement it using layouts and partials.
-- Find a story that can make use of passing content from the controller to the view and displaying it with a view template.
-- Work with git. Create a branch for each story and merge it into master with a merge commit like "Story_001 Overview of Study Program"
-  - You may also clean your git history to just have one commit per story.
-- Tag the version where the sprint was completed with "Sprint_03"
-- Include the repo url in your status report (you can use any service, e.g. https://gitlab.rz.htw-berlin.de/)
-  - Please use a public repository or grant read access to the lecturer
+2. Draw a rough interface sketch together. One page per person is sufficient. If you would need more pages to implement your stories, reduce or split your stories. You can always add more later.
+3. Each one of you should take care of one of the pages. Note who did which page in your report.
 
-#### Status Report
+### 2. Static HTML Pages
 
-Write up a brief status report containing:
+Create static (plain) HTML pages and make them available using express static. (see [Serving static files in Express](https://expressjs.com/en/starter/static-files.html) and the example app). 
 
-- Your project name
+### 3. Try out Handlebars
+
+Find something where you repeatedly need the same data in different formats. You can use any template engine to solve that! The repo contains
+an example where I generate various Project Lists for the Showtime using handlebars - see {{<source path = "handlebars-example/" >}}  
+https://handlebarsjs.com/guide
+
+
+## 4. Integrate Handlebars into your Express App and fill the Pages with example data
+
+Use your app from last week and 
+
+Copying the structure of the handlebar-express example apps (see the readme: {{<source path = "README.MD" >}})
+create two routes for your 
+
+## Example App: "My Poll"
+As an example, here's a simple My Poll App. It should provide polls that can easily be created, started and evaluated in group settings.
+### 1. "My Poll": Stories and a Rough Interface Design
+#### "My Poll" User Stories:
+
+- As a Facilitator, I can create a new poll by entering a question that can be answered with yes or no.
+- As a Facilitator, I can start a poll. 
+- As a Participant, I can open the poll on my device (phone, laptop) and answer the question
+- As a Facilitator, I can see the poll results after closing the poll.
+
+Note that I've kept this stories very simple. For instance, only polls with yes/no answers are possible. Also, there is no (need of) automatic updating of the result page as the results should only be shown after the poll is closed. These things can always be added in a later iteration.
+
+#### Rough Interface Sketch:
+
+I started drafting out the poll creation - see sketch 1.
+
+--- sketch 1
+
+This made me realize that this would result in 5 pages (and routes). Thus I revised my plan and reduced it to this two stories:
+
+- As a Facilitator, I can see the results of a poll.
+- As a Facilitator, I can see a list of my past polls, which links to the individual poll results.
+
+I've added the second story to include an example for an iteration in the template (showing a collection of something)
+
+--- sketch 2
+
+
+
+
+
+#### Lab Report
+
+- Your group number and project name
 - The names of all team members
-- The backlog as a text file
-- The stories you've implemented in this sprint
+- the url of your repo (for the report to be complete for further reference)
+- your updated/consolidated project proposal with a the current list of user stories
+- The stories you've implemented in this sprint 
+- the interface sketches
+- the mapping of team member to pages
+- at least the static page as well as the handlebar template for this page has to be commited by the respective team member.
 - A reflection on any technical issues that you have encountered and how you resolved them (or not)
-  - Which technical components of your app would need to be adapted for your web site to be usable on a smart phone?
-- The url of your git repositories
 
-and submit it as .txt or .pdf to Moodle with the filename _Group\_\<X\>\_Project\_\<Y\>\_Sprint03.pdf_ or
-_Group\_\<X\>\_Project\_\<Y\>\_Sprint03.txt_.
+- submit it as .pdf to Moodle with the filename in the form of _group\_\<number\>\_\<project-topic\>\_lab_03.pdf_ e.g. _group\_42_repolist\_lab_03.pdf_ 
+- every group member must upload the same report file.
