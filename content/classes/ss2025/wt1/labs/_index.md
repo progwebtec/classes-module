@@ -32,7 +32,7 @@ Tentative List of Sprints/Topics:
 
 - {{% link title ="Lab 01: Building a Static Web Site" link = "../labs/sprint-01-static-site/" %}}
 - {{% link title ="Lab 02: Building a First Express Application" link = "../labs/sprint-02-first-express-app" %}}
-- {{% link title ="Lab 03: Adding Views to the Express Application" link = "../labs/sprint-03-express-views" %}}
+- {{% link title ="Lab 03: Pages in Express and Handlebars" link = "../labs/sprint-03-express-views/" %}}
 - {{% link title ="Lab 04: Adding Mongo Support" link = "../labs/sprint-04-mongo" %}}
 - {{% link title ="Lab 05: Understanding Promises" link = "../labs/sprint-05-promises" %}}
 - {{% link title ="Lab 06: Supporting Complex Models" link = "../labs/sprint-06-complex-models" %}}
