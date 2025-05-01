@@ -12,14 +12,19 @@ These are the Assignments for the practical exercises for the M1 main part on Fr
 
 ## Tentative Overview:
 
-
-  1. FizzBuzz Kata
-  2. Refactoring & Static Code Analysis
-  3. Setting up CI/CD Pipelines
-  4. Proposal for Open Source Project Contribution
-  5. 99 Bottles - Report on Refactoring Exercise, including source code
-  6. Report on Open Source Project, including source code
-  7. Report and Reflection on Software Development and Design at your Workplace (as written Reports or Talks?) OR Algorithms & Data Structures
-  8. Report and Sketchnotes on 3 Books or 2 Books and 3 Videos.
+- [Lab 01: FizzBuzz Kata](../assignments/assignment_01)
+- [Lab 02: Refactoring & Static Code Analysis](../assignments/assignment_02)
+- [Lab 03: Setting up CI/CD Pipelines](../assignments/assignment_03)
+{{<comment>}}
+- {{% link title ="Lab 01: FizzBuzz Kata" link = "../assignments/assignment_01" %}}
+- {{% link title ="Lab 02: Refactoring & Static Code Analysis" link = "../labs/sprint-01-static-site/" %}}
+- {{% link title ="Lab 03: Setting up CI/CD Pipelines" link = "../labs/sprint-01-static-site/" %}}
+{{</comment>}}
+- {{% link title ="Lab 04: Proposal for Open Source Project Contribution" link = "../labs/sprint-01-static-site/" %}}
+- {{% link title ="Lab 05: 99 Bottles - Report on Refactoring Exercise, including source code" link = "../labs/sprint-01-static-site/" %}}
+- {{% link title ="Lab 06: Report on Open Source Project, including source code" link = "../labs/sprint-01-static-site/" %}}
+- {{% link title ="Lab 07: Report and Reflection on Software Development and Design at your Workplace (as written Reports or Talks?) OR Algorithms & Data Structures" link = "../labs/sprint-01-static-site/" %}}
+- {{% link title ="Lab 08: Report and Sketchnotes on 3 Books or 2 Books and 3 Videos." link = "../labs/sprint-01-static-site/" %}}
  
 
+ {{% link title ="Execution Times" link = "../assignments/assignment-04" %}}          
