@@ -1,17 +1,23 @@
 ---
-title: Assignment 03 - Contribution to an Open Source Project
+title: Assignment 04 & 06 - Contribution to an Open Source Project
 author: kleinen
 weight: 40
-draft: true
+draft: false
 ---
 
-## Assignment 03 - Contribution to an Open Source Project
+## Assignment 04 - Proposal for Open Source Project Contribution
+This Assignment is simply to document your selection for the open source project.
+## Assignment 06 - Contribution to an Open Source Project
+The actual work & report.
+
 
 tl;dr:
-Select an open source project, create an overview of its design and submit a merge / pull request to the project.
+Select an **existing** open source project, create an overview of its design and submit a merge / pull request to the project.
 
 This assignment is mainly about code reading and understanding legacy code bases.
 It's not about creating your own project!
+
+You might and may build new, also smaller groups to work on the project you're interested in.
 
 ### 1. Select an Open Source Project.
 

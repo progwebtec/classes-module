@@ -15,6 +15,7 @@ These are the Assignments for the practical exercises for the M1 main part on Fr
 - [Lab 01: FizzBuzz Kata](../assignments/assignment_01)
 - [Lab 02: Refactoring & Static Code Analysis](../assignments/assignment_02)
 - [Lab 03: Setting up CI/CD Pipelines](../assignments/assignment_03)
+- [Lab 04 + Lab06: Contribution to an Open Source Project Contribution](../assignments/assignment_04)
 {{<comment>}}
 - {{% link title ="Lab 01: FizzBuzz Kata" link = "../assignments/assignment_01" %}}
 - {{% link title ="Lab 02: Refactoring & Static Code Analysis" link = "../labs/sprint-01-static-site/" %}}
