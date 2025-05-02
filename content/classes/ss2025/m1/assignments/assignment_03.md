@@ -40,6 +40,8 @@ As always, write up everything in your report, put your names on top and the sou
 ## Resources
 
 - [GitHub Actions documentation](https://docs.github.com/en/actions)
+- especially the [Quick Start](https://docs.github.com/en/actions/writing-workflows/quickstart), and the
+- [Starter Workflows](https://github.com/actions/starter-workflows)
 
 ### Example Projects
 
