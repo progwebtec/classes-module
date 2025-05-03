@@ -1,7 +1,7 @@
 ---
 title: 'Lab 03: Chatterbox'
 author: kleinen
-draft: true
+draft: false
 weight: 50
 ---
 
@@ -57,7 +57,7 @@ exchanged with the Input- and Output Stream coming from a Socket!
 e.g. in the Game constructor.
 2. Take the Server from Step 2 and attach a Game instance for processing the messages received by the client.
 3. There isn't really a need to implement a special client, telnet works just fine.
-4. Done! you now can play Zuul remotely. In order to move it towards a multiplayer game, you would need a
+4. Done! You now can play Zuul remotely. In order to move it towards a multiplayer game, you would need a
    thread running a game instance for each connected client - just like for a multiuser chat in the "for the bored" part.
 
 ## For the bored::
