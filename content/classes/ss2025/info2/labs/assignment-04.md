@@ -2,7 +2,7 @@
 title: 'Lab 04: Execution times'
 author: kleinen
 layout: lab
-draft: true
+draft: false
 weight: 60
 params:
   math: true
@@ -39,7 +39,7 @@ b) $O(N \log N)$
 
 c) quadratic
 
-d) 4. cubic
+d) cubic
 
 ***P3.*** An algorithm takes 0.5 ms for input size 100. How large a problem can be solved in 1 min if the running time is the following:
 
