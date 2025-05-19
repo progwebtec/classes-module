@@ -2,7 +2,7 @@
 title: 'Lab 05: Reverse Polish Notation'
 author: kleinen
 layout: lab
-draft: true
+draft: false
 source: https://github.com/htw-imi-info2/Lab07_ReversePolishNotation
 weight: 70
 ---
