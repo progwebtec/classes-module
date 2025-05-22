@@ -7,6 +7,9 @@ courseNav: Labs
 
 ### Lab Assignments
 
+{{< subpages sort = "weight" >}}
+
+### About
 During the labs, you will work on a web application on a topic of your choice in a small team of 3-4 people.
 Topic selection and Team/Group formation will be initiated in Lab 01, and finalized in Lab 02.
 
@@ -25,23 +28,10 @@ All team member names need to be at the top of the first page of this report. I 
 who have not submitted a report.
 
 
-
 Labs will be graded with the  [Star Grading Scale](../../../../studies/grading/guideline#star-gradings-for-exercises).
 
 Tentative List of Sprints/Topics:
 
-- {{% link title ="Lab 01: Building a Static Web Site" link = "../labs/sprint-01-static-site/" %}}
-- {{% link title ="Lab 02: Building a First Express Application" link = "../labs/sprint-02-first-express-app" %}}
-- {{% link title ="Lab 03: Pages in Express and Handlebars" link = "../labs/sprint-03-express-views/" %}}
-- {{% link title ="Lab 04: Adding Mongo Support" link = "../labs/sprint-04-mongo" %}}
-- {{% link title ="Lab 05: Understanding Promises" link = "../labs/sprint-05-promises" %}}
-- {{% link title ="Lab 06: Supporting Complex Models" link = "../labs/sprint-06-complex-models" %}}
-- {{% link title ="Lab 07: Adding CRUD Support" link = "../labs/sprint-07-crud" %}}
-- {{% link title ="Lab 08: Adding Login Support" link = "../labs/sprint-08-login" %}}
-- {{% link title ="Lab 09: Adding Support for Passport.js" link = "../labs/sprint-09-passport" %}}
-- {{% link title ="Lab 10: Building a REST API" link = "../labs/sprint-10-rest" %}}
-- {{% link title ="Lab 11: Securing a REST API" link = "../labs/sprint-11-securing-rest" %}}
-- {{% link title ="Lab 12: Adding Support for Socket.io" link = "../labs/sprint-12-socket" %}}
 
 
 <!--
