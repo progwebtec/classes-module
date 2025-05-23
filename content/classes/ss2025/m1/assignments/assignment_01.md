@@ -10,7 +10,6 @@ In this assignment you work on a simple Coding Kata - FizzBuzz - to practice Tes
 
 Please work on this exercise in pairs. Both of you need to hand in the same report.
 
-
 ## Hand-In
 You will hand in a written report in pdf format and a link to the source code repo. Make sure to keep a logbook with notes of anything that you observe to ease writing the report later.
 

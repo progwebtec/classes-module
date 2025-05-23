@@ -27,9 +27,7 @@ params:
 
 M1 Media Programming is a general refresher and brush-up on your programming and software engineering skills. 
 The class is divided in two mostly independent parts: 
-1. The Lab on Wednesday introduces the three specialisation areas of our media informatics program: Game Technology and Interactive Systems, Visual Computing and Web Technology.
-sdafadsf
-This part is held
+1. The Lab on Wednesday introduces the three specialisation areas of our media informatics program: Game Technology and Interactive Systems, Visual Computing and Web Technology. This part is held
 by various lectures according to the respective area, refer to the [lab schedule](./schedule) for more information.
 
 2. The main part on Friday is a general repetition and/or introduction of advanced programming concepts.
