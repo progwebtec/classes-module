@@ -2,7 +2,7 @@
 title: 'Lab 06: Recursive Triangles'
 author: kleinen
 layout: lab
-draft: true
+draft: false
 weight: 80
 source: https://github.com/htw-imi-info2/Lab08_SierpinskiTriangle
 ---
