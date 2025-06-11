@@ -2,7 +2,7 @@
 title: M1 WS 2025/2026 Wednesday Schedule
 author: kleinen
 CourseNav: Wednesday Lab Schedule
-weight: 20242
+weight: 20252
 ---
  
 Draft! - Dates and Order are not set. 11.6.2025
