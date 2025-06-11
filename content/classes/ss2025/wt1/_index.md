@@ -51,7 +51,7 @@ these quizzes may or may not be part of the final exam.
 ### Labs
 
 The labs are a mostly independent introductionary course on web development using Node, Express and Mongo as a common example for distributed systems.
-Refer to the [Labs Page](../labs/) for more detailed information.
+Refer to the [Labs Page](./labs/) for more detailed information.
 
 ### E-Learning/Bank Holidays
 
