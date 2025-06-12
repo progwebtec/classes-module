@@ -30,8 +30,6 @@ who have not submitted a report.
 
 Labs will be graded with the  [Star Grading Scale](../../../../studies/grading/guideline#star-gradings-for-exercises).
 
-Tentative List of Sprints/Topics:
-
 
 
 <!--
