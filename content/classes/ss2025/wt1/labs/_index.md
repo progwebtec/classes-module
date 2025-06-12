@@ -7,7 +7,7 @@ courseNav: Labs
 
 ### Lab Assignments
 
-{{< subpages sort = "weight" >}}
+{{< subpages sort = "weight" depth = "2">}}
 
 ### About
 During the labs, you will work on a web application on a topic of your choice in a small team of 3-4 people.

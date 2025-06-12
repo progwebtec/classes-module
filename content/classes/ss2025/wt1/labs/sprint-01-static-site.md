@@ -2,7 +2,7 @@
 title: Lab 01 - Project Ideas, Dev Environment Setup, Building a Static Web Site
 author: kleinen
 draft: false
-weight: 110
+weight: 1010
 ---
 
 ## 1. Project Ideas
