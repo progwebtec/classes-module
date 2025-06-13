@@ -1,7 +1,7 @@
 ---
 title: Assignment 03 - Setting up CI/CD Pipelines
 author: kleinen
-weight: 20
+weight: 30
 draft: false
 ---
 
