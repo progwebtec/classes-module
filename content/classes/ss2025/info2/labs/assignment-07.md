@@ -2,7 +2,7 @@
 title: 'Lab 07: Eight Queens'
 author: kleinen
 layout: lab
-draft: true
+draft: false
 weight: 90
 ---
 
