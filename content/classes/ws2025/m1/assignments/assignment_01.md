@@ -2,7 +2,7 @@
 title: Assignment 01 - TDD Kata
 author: kleinen
 weight: 10
-draft: false
+draft: true
 source: https://github.com/htw-imi-media-programming/kata-scaffold
 ---
 
@@ -48,6 +48,7 @@ Refactor as needed.
 ### Add new Requirements
 
 We will define a new Requirement in Class (or, define one yourself). Write a Test. Implement it. Refactor.
+
 
 
 # Resources
