@@ -49,6 +49,15 @@ Refactor as needed.
 
 We will define a new Requirement in Class (or, define one yourself). Write a Test. Implement it. Refactor.
 
+## Report
+You don't need to describe every step in your report, just things that were important to you, what worked, what didn't work, your learnings. 
+
+Answer the following questions:
+
+- Which language did you use?
+- Which refactorings did you use/do?
+
+
 
 
 # Resources

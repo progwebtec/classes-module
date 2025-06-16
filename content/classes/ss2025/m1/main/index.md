@@ -16,14 +16,14 @@ draft: false
 | 6    | 20  | Fri 16/05/2025 |            | - no class -                                                                                       |      | Due: A_03                |
 | 7    | 21  | Fri 23/05/2025 |            | Software Quality, Software Crafting, Clean Code , Refactoring Exercise: 99 Bottles                 | A_05 |                          |
 |      | 22  | Fri 30/05/2025 | Brückentag | ***no class***                                                                                     |      | Due: A_04                |
-| 8    | 23  | Fri 06/06/2025 |            | Advanced Algorithms (TBD)                                                               |      |                          |
-| 9    | 24  | Fri 13/06/2025 |            | Contribute to an Open Source Project                                                               |      | Due: A_05                        |
-| 10   | 25  | Fri 20/06/2025 |            | Software Architecture: Command Query Separation, Event Driven Architecture, Hexagonal Architecture |      |                          |
-| 11   | 26  | Fri 27/06/2025 |            |                                                                          |      |  Due: A_07                        |
-| 12   | 27  | Fri 04/07/2025 |            |                                                                                              |      |                          |
-| 13   | 28  | Fri 11/07/2025 |            | Programming Paradigms - Functional Programming, Concurrency Patterns                               |      | Due: A_06  ?                      |
-| 14   | 29  | Fri 18/07/2025 |            | Exam??                                                                                               |      |                          |
-|      | 30  | Fri 25/07/2025 | Showtime   |                                                                                                    |      |                       |
+| 8    | 23  | Fri 06/06/2025 |            | Advanced Algorithms (TBD)                                                                          |      |                          |
+| 9    | 24  | Fri 13/06/2025 |            | Contribute to an Open Source Project                                                               |      | Due: A_05                |
+| 10   | 25  | Fri 20/06/2025 |            | SOLID Principles, Reflection on FizzBuzz Kata / Clean Code                                         |      |                          |
+| 11   | 26  | Fri 27/06/2025 |            | Software Architecture: Command Query Separation, Event Driven Architecture, Hexagonal Architecture |      | Due: A_07                |
+| 12   | 27  | Fri 04/07/2025 |            |                                                                                                    |      |                          |
+| 13   | 28  | Fri 11/07/2025 |            | Programming Paradigms - Functional Programming, Concurrency Patterns                               |      | Due: A_06  ?             |
+| 14   | 29  | Fri 18/07/2025 |            | Exam??                                                                                             |      |                          |
+|      | 30  | Fri 25/07/2025 | Showtime   |                                                                                                    |      |                          |
 TBD:   Due: A_08
 
 
