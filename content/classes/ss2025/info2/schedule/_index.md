@@ -57,11 +57,9 @@ Tentative Schedule (6.3.2025)
 | 16   | 29  | Mon 14/07/2025 | PZ1 Anfang     | ---                                                                                                           | Trial Exams                                                                                       |     |
 |      |     | Tue 15/07/2025 |                | Exam Info & Preparation                                                                                       |                                                                                                   |     |
 |      |     | Thu 17/07/2025 |                | Exam Info & Preparation                                                                                       |                                                                                                   |     |
-| 17   | 30  | Mon 21/07/2025 |                | Exam?                                                                                                         | ***No Lab***                                                                                      |     |
+| 17   | 30  | Mon 21/07/2025 |                | Exam                                                                                                        | ***No Lab***                                                                                      |     |
 |      |     | Thu 24/07/2025 |                | ----                                                                                                   |                                                                                                   |     |
 |      |     | Fri 25/07/2025 |                | Showtime                                                                                                      |                                                                                                   |     |
-| 18   |     | Mon 28/7/2025  |                | Exam?                                                                                                         |                                                                                                   |     |
-
 
 
 
