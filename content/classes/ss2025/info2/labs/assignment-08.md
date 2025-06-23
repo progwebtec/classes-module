@@ -2,13 +2,9 @@
 title: 'Lab 08: Finite State Automata and Sorting Algorithms'
 author: kleinen
 layout: lab
-draft: true
+draft: false
 weight: 100
 ---
-
-{{<alert warning>}}
-    As we haven't discussed Heapsort in enough detail yet, you can postpone the Heapsort walkthroughs to a later lab/time after we discussed Trees, Heaps and Heapsort in more detail. 
-{{</alert>}}
 
 ## Pre-Lab
 ***P1.*** What is the difference between an NFA and an DFA?
