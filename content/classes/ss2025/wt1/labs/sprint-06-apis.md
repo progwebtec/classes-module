@@ -20,7 +20,8 @@ These are - as an example - the routes /endpoints that would be generated in a r
 a hierarchical resource (poll has many answers, and each answer belongs to poll):
 
 
-
+#### Complete Rails Routes
+(including routes for the new and edit form)
 | Prefix           | Verb   | URI Pattern                                | Controller#Action |
 |:---------------- |:------ | ------------------------------------------ | ----------------- |
 | polls            | GET    | /polls(.:format)                           | polls#index       |
@@ -41,6 +42,19 @@ a hierarchical resource (poll has many answers, and each answer belongs to poll)
 |                  | DELETE | /polls/:poll_id/answers/:id(.:format)      | answers#destroy   |
 
 
+
+## Just the Restful Routes
+
+| CRUD              | Verb   | URI Pattern                                | Controller#Action |
+|:----------------- |:------ | ------------------------------------------ | ----------------- |
+| Read (Collection) | GET    | /polls(.:format)                           | polls#index       |
+| Create            | POST   | /polls(.:format)                           | polls#create      |
+| Read              | GET    | /polls/:id(.:format)                       | polls#show        |
+| Update            | PATCH  | /polls/:id(.:format)                       | polls#update      |
+| Update            | PUT    | /polls/:id(.:format)                       | polls#update      |
+| Delete            | DELETE | /polls/:id(.:format)                       | polls#destroy     |
+
+
 ## API Endpoints
 
 Create API endpoints that support your main usecases about 2-3 use cases and about 3-4 endpoints are the minimum. You do not need to implement all crud operations on all your resources, but should include at least one reading and one writing/editing endpoint.
@@ -53,7 +67,7 @@ You do not need to end a React/HTML frontend, but can start creating one - it wi
 
 With the Schema and Mongoose Requests you've created in the last lab it should be easy to use the database to implement
 the api - remove all hard-coded data from your app and replace it with database queries. You might want to move your static data to seed files. Using seed files comes in especially handy if you start with with a use case that reads data rather than
-writes in the database - but it's a good practice anyway as you don't loose time entering data manually.
+writes in the database - but it's a good practice anyway as you don't loose time entering data 
 
 ## Report
 
