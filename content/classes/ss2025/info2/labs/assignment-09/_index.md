@@ -2,7 +2,7 @@
 title: 'Lab 09: Getting from A to B'
 author: kleinen
 layout: lab
-draft: true
+draft: false
 weight: 110
 ---
 
@@ -54,7 +54,7 @@ Your Dijkstra implementations should yield the following travel times:
 
 ## Graph Example and Test Data
 ### Test Data
-[graph1.txt](./graph1.txt) contains a small example graph to test both algorithms. For the Dijkstra Algorithm, [result1.txt](../result1.txt) contains the cheapest path costs if you start at vertex 1.
+[graph1.txt](./graph1.txt) contains a small example graph to test both algorithms. For the Dijkstra Algorithm, [result1.txt](./result1.txt) contains the cheapest path costs if you start at vertex 1.
 
 ### BVG U+S Bahn
 
