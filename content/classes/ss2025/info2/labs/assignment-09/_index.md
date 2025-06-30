@@ -60,7 +60,7 @@ Your Dijkstra implementations should yield the following travel times:
 
 The graph data in [bvg.txt](./bvg.txt) contains a simple extract of the Berlin U+S Map and has the following format:
 
-    <from-vertex> <to-vertex2>,<weight2> <to-vertex2>,<weight2>
+    <from-vertex> <to-vertex1>,<weight1> <to-vertex2>,<weight2>
 
 That is, each line represents a vertex with all its outgoing edges, e.g.
 
