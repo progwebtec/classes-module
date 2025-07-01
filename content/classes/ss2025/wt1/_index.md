@@ -68,15 +68,16 @@ and successful individual submission of this lab is required to participate in t
  
 {{<alert danger>}}Die Abgabe des ersten Labs wird nicht mit benotet, ist aber Prüfungsvoraussetzung für die anderen Teile! {{</alert>}}
 
-| Part | Weight | Role                                             | Type      |
-|:-----|:-------|:-------------------------------------------------|:----------|
-| Project Proposal and Static Site (Lab 01) | undifferenziert   | undifferenzierte Teilmodulprüfung, Vorraussetzung für die Klausur  | Moodle Upload and Feedback |
-| Exam | 50/100 Points   | schriftliche Modulabschlussprüfung (§ 10 RStPO)  | Moodle Quizz and Programming Assignments |
-| Labs | 50/100 Points    | studienbegleitende Teilmodulprüfung (§ 12 RStPO) | Weekly Lab Reports |
-| Quizzes | 10/100 Points    | Extra-Points for Quizzes during the term |  |
+| Part                                      | Weight               | Role                                                              | Type                                     |
+|:----------------------------------------- |:-------------------- |:----------------------------------------------------------------- |:---------------------------------------- |
+| Project Proposal and Static Site (Lab 01) | undifferenziert      | undifferenzierte Teilmodulprüfung, Vorraussetzung für die Klausur | Moodle Upload and Feedback               |
+| Exam                                      | 50/100 Points        | schriftliche Modulabschlussprüfung (§ 10 RStPO)                   | Moodle Quizz and Programming Assignments |
+| Labs (ohne 2-9 )                          | 50/100 Points        | studienbegleitende Teilmodulprüfung (§ 12 RStPO)                  | Weekly Lab Reports                       |
+| Lab 10 (Bonuslab)                         | 5/100 Points  Points | studienbegleitende Teilmodulprüfung (§ 12 RStPO)                  | Weekly Lab Reports                       |
+| Quizzes                                   | 5/100 Points         | Extra-Points for Quizzes during the term                          |                                          |
 
 
-.
+
 
 {{<comment>}}
 
