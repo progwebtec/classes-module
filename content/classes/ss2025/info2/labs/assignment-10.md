@@ -2,15 +2,17 @@
 title: 'Lab 10: Scrabble Cheater - Basic Edition '
 author: kleinen
 layout: lab
-draft: true # with improvements for next round
+draft: false # with improvements for next round
 weight: 120
 ---
 
  ![Scrabble](./../images/scrabble_4468636695_2434bc60ff_b.jpg "scrabble tile rack")
 Foto by [Mags_cat](https://www.flickr.com/photos/mk1971/4468636695)
 
+<!--
 TBD!!!!
 - Permutation#equals method should check on equal words, not on equality based on permutation.
+-->
 
 <!--
 
