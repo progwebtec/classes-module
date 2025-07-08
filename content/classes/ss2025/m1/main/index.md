@@ -21,10 +21,14 @@ draft: false
 | 10   | 25  | Fri 20/06/2025 |            | SOLID Principles, Reflection on FizzBuzz Kata / Clean Code                                         |      |                          |
 | 11   | 26  | Fri 27/06/2025 |            | Übung Open Source Project und Algorithmen                                                          |      | Due: A_07                |
 | 12   | 27  | Fri 04/07/2025 |            | Software Architecture: Command Query Separation, Event Driven Architecture, Hexagonal Architecture |      |                          |
-| 13   | 28  | Fri 11/07/2025 |            | Programming Paradigms - Functional Programming, Concurrency Patterns                               |      | Due: A_06  ?             |
-| 14   | 29  | Fri 18/07/2025 |            | Exam??                                                                                             |      |                          |
+| 13   | 28  | Fri 11/07/2025 |            | Programming Paradigms - Functional Programming, Concurrency Patterns                               |      |             |
+| 14   | 29  | Fri 18/07/2025 |            | Exam                                                                                             |      |                          |
 |      | 30  | Fri 25/07/2025 | Showtime   |                                                                                                    |      |                          |
-TBD:   Due: A_08
+15.8. Due: A_06  Due: A_08
+ 
+ A_09 2.8.
+
+raum 2 pz
 
 
   1. FizzBuzz Kata
