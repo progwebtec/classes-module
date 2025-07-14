@@ -45,3 +45,7 @@ The summary can be short - more of an overview with only the main parts or examp
  - Shore, J. and Warden, S. (2021) The Art of Agile Development. 2nd edition. O’Reilly Media.
  - Tate, B.A. (2010) Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages. 1st edn. Pragmatic Bookshelf.
  - Thomas, D. and Hunt, D. (2019) The Pragmatic Programmer, 20th Anniversary Edition. The Pragmatic Programmers. Available at: https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/.
+
+### Neu
+
+Nystrom, R. (2014) Game Programming Patterns. Genever Benning. Accompanying Website: [https://gameprogrammingpatterns.com](https://gameprogrammingpatterns.com) (Accessed: 14 July 2025).
