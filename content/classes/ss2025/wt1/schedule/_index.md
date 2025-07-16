@@ -24,11 +24,13 @@ This schedule is, as always, tentative and will be adapted throughout the term i
 | 9     | 25  | Thu 19/06/2025, Tue 24/06/2025     | APIs, Patterns of Communication between Nodes           |                                                                                                                                              |
 | 10    | 26  | Thu 26/06/2025, Tue 01/07/2025     | Patterns of Distributed Time                            | {{% link title ="Lab 06 - APIs" link = "../labs/sprint-06-apis" %}} - tentative due date: 1 week/25.6. / 30.6.                               |
 | 11    | 27  | Thu 03/07/2025, Tue 08/07/2025     | Patterns of Data Partitioning                           | {{% link title ="Lab 07 - Testing" link = "../labs/sprint-07-testing" %}} - tentative due date: 2 weeks                                      |
-| 12    | 28  | Thu 10/07/2025, Tue 15/07/2025     | Security and Authentication                             | {{% link title ="Lab 08 - CI/CD" link = "../labs/sprint-08-cicd" %}}  - tentative due date: 2 weeks                                          |
-| 13    | 29  | Thu 17/07/2025,                    | Exam Preparation, Trial Exam/Quizzes                    | {{% link title ="Lab 09 - Security" link = "../labs/sprint-09-security" %}}  - tentative due date: 2 weeks                                   |
+| 12    | 28  | Thu 10/07/2025, Tue 15/07/2025     | ~~Security and Authentication~~                            |  |
+| 13    | 29  | Thu 17/07/2025,                    | Exam Preparation, Trial Exam/Quizzes                    | {{% link title ="Lab 08 - CI/CD" link = "../labs/sprint-08-cicd" %}}  - tentative due date: 2 weeks                              |
 | 14    | 30  | Tue 22/07/2025                     | no lab (Exam Period)                                    | {{% link title ="Lab 10 - Frontend (Bonus-Lab)" link = "../labs/sprint-10-frontend" %}} - tentative due date: 15.8.                          |
 | 14    | 30  | Thu 24/07/2025                     | no class (Exam Period)                                  |                                                                                                                                              |
 |       |     | Fri 25/07/2025                     | [Showtime!](https://showtime.f4.htw-berlin.de/)         |                                                                                                                                              |
 | 15    | 31  | Tue 29/07/2025                     | Exam                                                    |                                                                                                                                              |
 
 
+<!--                                          ~~{{% link title ="Lab 09 - Security" link = "../labs/sprint-09-security" %}}  - tentative due date: 2 weeks    ~~ 
+-->
