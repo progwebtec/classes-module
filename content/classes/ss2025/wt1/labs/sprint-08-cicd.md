@@ -99,3 +99,5 @@ See the check project update workflow for the Showtime Website for a more elabor
 ## For the bored: set up an automated deployment.
 
 find a platform to deploy your app to (e.g. vercel) and add a deploy job to your github action to deploy it automatically after all tests pass.
+
+- ***tag the final version for this lab with the tag LAB_08 ***

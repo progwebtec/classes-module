@@ -24,3 +24,4 @@ For the bored: Unit test your React-Components.
 Include at least one snapshot test.
 
 
+- ***tag the final version for this lab with the tag LAB_07***
