@@ -1,5 +1,5 @@
 ---
-title: Lab 07 - Testing & Lab 08 CI/CD
+title: Lab 07 - Testing 
 author: kleinen
 draft: false
 notoc: false
@@ -23,11 +23,4 @@ Read through Chapter 8 (Testing).
 For the bored: Unit test your React-Components.
 Include at least one snapshot test.
 
-## Part 2 / Lab 08
 
-(examples and further instructions will follow)
-1. Create at least one system test including the automatic setup of a test database.
-2. Build an automated test workflow into an gh action or gitlab CI/CD
-
-For the bored: 
-set up an automated deployment.
