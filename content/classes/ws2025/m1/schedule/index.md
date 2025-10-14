@@ -39,6 +39,10 @@ Time and Room: See LSF (link in external links above)
 | 19   | 8   | Wed 18/02/2026 |                |                                         |                 |
 
 
+1. PZ 26.01. – 14.02.2026
+
+
+
 
 
 
